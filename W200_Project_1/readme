@@ -1,0 +1,41 @@
+## readme - HARRY POTTER AND THE FIRST YEAR ADVENTURE GAME ##
+This file is a readme to assist you, the user to run my W200 Project 1 program. 
+
+
+## Developed by: Anuradha Passan 
+W200 Section 
+Project 1
+
+
+## Files needed to run the program:
+hp_main.py
+player.py
+card.py
+deck.py
+hp_board.py 
+user_comm.py
+
+The above files need to be in the same directory folder. 
+
+
+## Run HARRY POTTER AND THE FIRST YEAR ADVENTURE GAME
+1.Run the hp_main.py file in a python terminal or command line. 
+2. A list of instructions will print out welcoming the user to the game. 
+3. A prompt will show asking the user to type a name.
+4. The game will assign the user/player a Hogwarts house, create the relevant
+    deck of cards (differs depending on the randomly assigned Hogwarts house),
+    and the starting game board. The first square will have an * - this marks 
+    how the user will move across the board. 
+5. A prompt will ask the user to enter in any character(s) or press the enter key
+    to start a turn. Or the user can press either 'q' or 'Q' to quit the game.
+6. The program will print an anecdote and the number of spaces the user moves, and 
+    also move the * to the proper spot on the board. 
+7. The game will continue until one of the following three conditions take place:
+    1. The user quits the game before commencing the next turn (prompted to user).
+    2. The user loses the game by running out cards in the deck to draw from. 
+    3. The user wins the game by reach the last square on the board. 
+
+
+## Copyright Disclaimer
+This adventure game takes place in the world of Harry Potter, created by J.K. Rowling. 
+
