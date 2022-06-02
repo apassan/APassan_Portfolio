@@ -1,2 +1,2 @@
 # APassan_Portfolio
-A selection of some work I have done. 
+A selection of projects I have worked on. 
