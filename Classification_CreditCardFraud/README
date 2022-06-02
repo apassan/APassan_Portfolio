@@ -1,0 +1,12 @@
+Using a credit card fraudster dataset from Kaggle, this project will attempt to find the best classification model that can predict whether a card transaction is fraudulent or not. 
+
+This project contains the following:
+
+- 'data': A folder containing the raw dataset in CSV.
+- 'scripts': A folder containing some helpful scripts to import the data for certain Jupyter Notebooks (JNs).
+- 'prep': JN that imports the data and performs some quick sanity checks. 
+- 'eda': JN that has some exploratory data analysis.
+- 'modeling': JN that has some model prep, goes through various classification models, and evaluates the best one for this scenario. 
+
+
+**Please note that this project is ongoing.**

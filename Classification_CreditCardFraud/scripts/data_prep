@@ -1,0 +1,23 @@
+# Import modules
+import csv
+import math
+import numpy as np
+import pandas as pd
+
+# Read in files
+data_raw = pd.read_csv('data/card_transdata.csv')
+data_raw.head()
+
+# Number of rows
+print('Number of rows in data_raw:', len(data_raw))
+
+# Number of columns 
+print('Number of columns in data_raw:', len(data_raw.columns))
+
+# Check for missing values
+print('Number of Missing values:', np.isnan(data_raw.values).sum())
+
+# Confirm that the last 5 columns are binary categorical 
+for column in data_raw.columns[3:9]:
+    print(data_raw[column].value_counts())
+    print()
