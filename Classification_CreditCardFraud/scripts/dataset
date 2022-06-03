@@ -1,8 +1,0 @@
-# Import modules
-import csv
-import math
-import numpy as np
-import pandas as pd
-
-# Read in files
-data = pd.read_csv('data/card_transdata.csv')
