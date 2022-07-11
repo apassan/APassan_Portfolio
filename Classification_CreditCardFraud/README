@@ -1,4 +1,19 @@
-Using a credit card fraudster dataset from Kaggle, this project will attempt to find the best classification model that can predict whether a card transaction is fraudulent or not. 
+# Predicing Fraudulent Credit Card Transactions
+
+Goal: develop a classification model that can both explain and predict whether a credit card transaction is fraudulent or not.
+
+Data Source: Kaggle dataset consisting of 1,000,000 credit card transactions.
+
+
+Models: Accuracy of final model for specified algorithm 
+1. Logistic Regression: 94% 
+2. K-Nearest Neighbors: 96%
+3. Support Vector Machine: 99%
+4. Decision Tree: 98%
+5. Random Forest 99%
+
+In this context, I would suggest going with the decision tree model as it has a high accuracy rate (along with precision and recall - please refer to the classifier4_dt.ipynb file) and it is a more interpretable model to explain to stakeholders regarding the decisions behind what makes a credit card transaction fraudulent. 
+
 
 This project contains the following:
 
@@ -6,7 +21,4 @@ This project contains the following:
 - 'scripts': A folder containing some helpful scripts to import the data for certain Jupyter Notebooks (JNs).
 - 'prep': JN that imports the data and performs some quick sanity checks. 
 - 'eda': JN that has some exploratory data analysis.
-- 'modeling': JN that has some model prep, goes through various classification models, and evaluates the best one for this scenario. 
-
-
-**Please note that this project is ongoing.**
+- 'classifier...': JNs that goes through different types of classification models and evaluates the best model of that specific algorithm.
