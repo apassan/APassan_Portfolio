@@ -12,7 +12,7 @@ Models: Accuracy of final model for specified algorithm
 4. Decision Tree: 98%
 5. Random Forest 99%
 
-In this context, I would suggest going with the decision tree model as it has a high accuracy rate (along with precision and recall - please refer to the classifier4_dt.ipynb file) and it is a more interpretable model to explain to stakeholders regarding the decisions behind what makes a credit card transaction fraudulent. 
+In this context, I would suggest going with the random forest model as it has a high accuracy rate (along with precision and recall - please refer to the classifier5_rf.ipynb file). While a decision tree model could be easier to explain to stakeholders why a certain transaction is fraudulent, a random forest model will be accurate and is still feasible to explain to stakeholders why a transaction may be fraudulent. 
 
 
 This project contains the following:
