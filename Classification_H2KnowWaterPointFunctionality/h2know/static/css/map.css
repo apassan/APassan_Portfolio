@@ -1,0 +1,224 @@
+#map {
+  height: 80vh;
+}
+
+
+/*--------------------------------------------------------------
+# Custom
+--------------------------------------------------------------*/
+.select-country-dropdown {
+  --animate-duration: 1s;
+  --animate-delay: 1s;
+  --animate-repeat: 1;
+  --bs-blue: #0d6efd;
+  --bs-indigo: #6610f2;
+  --bs-purple: #6f42c1;
+  --bs-pink: #d63384;
+  --bs-red: #dc3545;
+  --bs-orange: #fd7e14;
+  --bs-yellow: #ffc107;
+  --bs-green: #198754;
+  --bs-teal: #20c997;
+  --bs-cyan: #0dcaf0;
+  --bs-black: #000;
+  --bs-white: #fff;
+  --bs-gray: #6c757d;
+  --select-dropdown-color: #68A4C4;
+  --select-dropdown-bg: #fff;
+  --select-dropdown-border: 2px solid #68A4C4;
+  text-align: center;
+  box-sizing: border-box;
+  text-decoration: none;
+  animation-duration: var(--animate-duration);
+  animation-fill-mode: both;
+  animation-name: fadeInUp;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 12px 32px;
+  border-radius: 50px;
+  transition: 0.5s;
+  line-height: 1;
+  margin: 10px;
+  color: var(--select-dropdown-color);
+  animation-delay: 0.8s;
+  border: var(--select-dropdown-border);
+  background-color: var(--select-dropdown-bg);
+  position: relative; /* Create a relative positioning context */
+}
+
+/* Create the custom drop-down arrow using CSS pseudo-elements */
+.select-country-dropdown::after {
+  content: "";
+  position: absolute;
+  top: 50%; /* Position the arrow vertically at the middle */
+  right: 20px; /* Adjust the position of the arrow horizontally */
+  width: 0;
+  height: 0;
+  border-left: 5px solid transparent; /* Adjust the size of the arrow */
+  border-right: 25px solid transparent; /* Adjust the size of the arrow */
+  border-top: 5px solid var(--select-dropdown-color); /* Set the color of the arrow */
+  transform: translateY(-50%) rotate(180deg); /* Rotate the arrow upside down */
+  pointer-events: none; /* Ensure the arrow doesn't interfere with clicks */
+}
+
+/* Style the select element when hovered */
+.select-country-dropdown:hover {
+  background-color: var(--select-dropdown-color);
+  color: #fff;
+}
+
+/* Hide the default dropdown arrow */
+.select-country-dropdown::-ms-expand {
+  display: none;
+}
+
+#h2know-button {
+  display: none;
+}
+
+#manualInput {
+  display: none;
+}
+#manualInput2 {
+  display: none;
+}
+.h2know-button-1 {
+    --animate-duration: 1s;
+    --animate-delay: 1s;
+    --animate-repeat: 1;
+    --bs-blue: #0d6efd;
+    --bs-indigo: #6610f2;
+    --bs-purple: #6f42c1;
+    --bs-pink: #d63384;
+    --bs-red: #dc3545;
+    --bs-orange: #fd7e14;
+    --bs-yellow: #ffc107;
+    --bs-green: #198754;
+    --bs-teal: #20c997;
+    --bs-cyan: #0dcaf0;
+    --bs-black: #000;
+    --bs-white: #fff;
+    --bs-gray: #6c757d;
+    text-align: center;
+    box-sizing: border-box;
+    text-decoration: none;
+    animation-duration: var(--animate-duration);
+    animation-fill-mode: both;
+    animation-name: fadeInUp;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 12px 32px;
+    border-radius: 50px;
+    transition: 0.5s;
+    line-height: 1;
+    margin: 10px;
+    color: #68A4C4;
+    animation-delay: 0.8s;
+    border: 2px solid #68A4C4;
+    background-color: #fff;
+    position: relative; /* Create a relative positioning context */
+	
+
+}
+ .h2know-button-1:hover {
+  background: #68A4C4;
+  color: #fff;
+  text-decoration: none;
+}
+
+.marker-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+
+.green {
+  background-color: green;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.red {
+  background-color: red;
+}
+img.huechange-0 { filter: hue-rotate(0deg); }
+img.huechange-5 { filter: hue-rotate(5deg); }
+img.huechange-10 { filter: hue-rotate(10deg); }
+img.huechange-15 { filter: hue-rotate(15deg); }
+img.huechange-20 { filter: hue-rotate(20deg); }
+img.huechange-25 { filter: hue-rotate(25deg); }
+img.huechange-30 { filter: hue-rotate(30deg); }
+img.huechange-35 { filter: hue-rotate(35deg); }
+img.huechange-40 { filter: hue-rotate(40deg); }
+img.huechange-45 { filter: hue-rotate(45deg); }
+img.huechange-50 { filter: hue-rotate(50deg); }
+img.huechange-55 { filter: hue-rotate(55deg); }
+img.huechange-60 { filter: hue-rotate(60deg); }
+img.huechange-65 { filter: hue-rotate(65deg); }
+img.huechange-70 { filter: hue-rotate(70deg); }
+img.huechange-75 { filter: hue-rotate(75deg); }
+img.huechange-80 { filter: hue-rotate(80deg); }
+img.huechange-85 { filter: hue-rotate(85deg); }
+img.huechange-90 { filter: hue-rotate(90deg); }
+img.huechange-95 { filter: hue-rotate(95deg); }
+img.huechange-100 { filter: hue-rotate(100deg); }
+img.huechange-105 { filter: hue-rotate(105deg); }
+img.huechange-110 { filter: hue-rotate(110deg); }
+img.huechange-115 { filter: hue-rotate(115deg); }
+img.huechange-120 { filter: hue-rotate(120deg); }
+img.huechange-125 { filter: hue-rotate(125deg); }
+img.huechange-130 { filter: hue-rotate(130deg); }
+img.huechange-135 { filter: hue-rotate(135deg); }
+img.huechange-140 { filter: hue-rotate(140deg); }
+img.huechange-145 { filter: hue-rotate(145deg); }
+img.huechange-150 { filter: hue-rotate(150deg); }
+img.huechange-155 { filter: hue-rotate(155deg); }
+img.huechange-160 { filter: hue-rotate(160deg); }
+img.huechange-165 { filter: hue-rotate(165deg); }
+img.huechange-170 { filter: hue-rotate(170deg); }
+img.huechange-175 { filter: hue-rotate(175deg); }
+img.huechange-180 { filter: hue-rotate(180deg); }
+img.huechange-185 { filter: hue-rotate(185deg); }
+img.huechange-190 { filter: hue-rotate(190deg); }
+img.huechange-195 { filter: hue-rotate(195deg); }
+img.huechange-200 { filter: hue-rotate(200deg); }
+img.huechange-205 { filter: hue-rotate(205deg); }
+img.huechange-210 { filter: hue-rotate(210deg); }
+img.huechange-215 { filter: hue-rotate(215deg); }
+img.huechange-220 { filter: hue-rotate(220deg); }
+img.huechange-225 { filter: hue-rotate(225deg); }
+img.huechange-230 { filter: hue-rotate(230deg); }
+img.huechange-235 { filter: hue-rotate(235deg); }
+img.huechange-240 { filter: hue-rotate(240deg); }
+img.huechange-245 { filter: hue-rotate(245deg); }
+img.huechange-250 { filter: hue-rotate(250deg); }
+img.huechange-255 { filter: hue-rotate(255deg); }
+img.huechange-260 { filter: hue-rotate(260deg); }
+img.huechange-265 { filter: hue-rotate(265deg); }
+img.huechange-270 { filter: hue-rotate(270deg); }
+img.huechange-275 { filter: hue-rotate(275deg); }
+img.huechange-280 { filter: hue-rotate(280deg); }
+img.huechange-285 { filter: hue-rotate(285deg); }
+img.huechange-290 { filter: hue-rotate(290deg); }
+img.huechange-295 { filter: hue-rotate(295deg); }
+img.huechange-300 { filter: hue-rotate(300deg); }
+img.huechange-305 { filter: hue-rotate(305deg); }
+img.huechange-310 { filter: hue-rotate(310deg); }
+img.huechange-315 { filter: hue-rotate(315deg); }
+img.huechange-320 { filter: hue-rotate(320deg); }
+img.huechange-325 { filter: hue-rotate(325deg); }
+img.huechange-330 { filter: hue-rotate(330deg); }
+img.huechange-335 { filter: hue-rotate(335deg); }
+img.huechange-340 { filter: hue-rotate(340deg); }
+img.huechange-345 { filter: hue-rotate(345deg); }
+img.huechange-350 { filter: hue-rotate(350deg); }
+img.huechange-355 { filter: hue-rotate(355deg); }
+img.huechange-360 { filter: hue-rotate(360deg); }

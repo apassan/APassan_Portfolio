@@ -1,0 +1,614 @@
+{% load static %}
+{% csrf_token %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>H2knOw Home</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="{% static '/img/favicon.png' %}" rel="icon">
+  <link href="{% static '/img/apple-touch-icon.png' %}" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,700,700i&display=swap" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="{% static '/vendor/animate.css/animate.min.css' %}" rel="stylesheet">
+  <link href="{% static '/vendor/aos/aos.css' %}" rel="stylesheet">
+  <link href="{% static '/vendor/bootstrap/css/bootstrap.min.css' %}" rel="stylesheet">
+  <link href="{% static '/vendor/bootstrap-icons/bootstrap-icons.css' %}" rel="stylesheet">
+  <link href="{% static '/vendor/boxicons/css/boxicons.min.css' %}" rel="stylesheet">
+  <link href="{% static '/vendor/glightbox/css/glightbox.min.css' %}" rel="stylesheet">
+  <link href="{% static '/vendor/swiper/swiper-bundle.min.css' %}" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="{% static '/css/style.css' %}" rel="stylesheet">
+
+  <!-- =======================================================
+  * Template Name: Moderna
+  * Updated: May 30 2023 with Bootstrap v5.3.0
+  * Template URL: https://bootstrapmade.com/free-bootstrap-template-corporate-moderna/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+
+<body>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top d-flex align-items-center header-transparent">
+    <div class="container d-flex justify-content-between align-items-center">
+
+      <div class="logo">
+        <h1 class="text-light"><a href="/"><span>H2knOw</span></a></h1>
+        <!-- Uncomment below if you prefer to use an image logo -->
+        <!-- <a href="index.html"><img src="{% static '/img/logo.png" alt="" class="img-fluid"></a>-->
+      </div>
+
+      <nav id="navbar" class="navbar">
+        <ul>
+          <li><a href="/">Home</a></li>
+          <li><a href="/#about_link">About</a></li>
+		  <li><a href="application">Application</a></li>
+          <li><a href="/#data_link">Data Sources</a></li>
+		  <li><a href="/#methodology_link">Methodology</a></li>
+		  <li><a href="/#considerations_link">Considerations</a></li>
+		  <li><a href="/#future_link">The Future</a></li>
+		  <li><a href="/#faq_link">FAQ</a></li>
+		  <li><a href="/#team_link">Team</a></li>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav><!-- .navbar -->
+
+    </div>
+  </header><!-- End Header -->
+
+  <!-- ======= Hero Section ======= -->
+  <section id="hero" class="d-flex justify-cntent-center align-items-center">
+    <div id="heroCarousel" class="container carousel carousel-fade" data-bs-ride="carousel" data-bs-interval="5000">
+
+      <!-- Slide 1 -->
+      <div class="carousel-item active">
+        <div class="carousel-container">
+          <h2 class="animate__animated animate__fadeInDown">Welcome to <span>H2knOw</span></h2>
+          <p class="animate__animated animate__fadeInUp">Revolutionizing water accessibility with data. By harnessing the power of machine learning, we hope to help communities improve water management and help improve access to clean water. H2knOw is committed to creating a water-secure world for generations to come.</p>
+          <a href="application" class="btn-get-started animate__animated animate__fadeInUp">Try Now</a>
+        </div>
+      </div>
+
+      <!-- Slide 2 -->
+      <div class="carousel-item">
+        <div class="carousel-container">
+          <h2 class="animate__animated animate__fadeInDown">Karibu Kwa H2knOw</h2>
+          <p class="animate__animated animate__fadeInUp">Kubadilisha upatikanaji wa maji na data. Kwa kutumia uwezo wa kujifunza kwa mashine, tunatumai kusaidia kuboresha jamii kuboresha matumizi ya maji na kusaidia kuboresha maisha ya maji safi. H2knOw imejitolea kuunda ulimwengu usio na maji kwa vizazi vijavyo.</p>
+          <a href="application" class="btn-get-started animate__animated animate__fadeInUp">Ijaribu Sasa</a>
+        </div>
+      </div>
+
+      <!-- Slide 3 -->
+      <div class="carousel-item">
+        <div class="carousel-container">
+          <h2 class="animate__animated animate__fadeInDown">Barka da zuwa H2knOw</h2>
+          <p class="animate__animated animate__fadeInUp">Juya samun damar ruwa tare da bayanai. Ta hanyar amfani da ikon koyon injin, muna fatan taimakawa al'ummomi su inganta sarrafa ruwa da kuma taimakawa wajen inganta samun ruwa mai tsabta. H2knOw ya himmatu don ƙirƙirar duniya mai aminci ga tsararraki masu zuwa.</p>
+          <a href="application" class="btn-get-started animate__animated animate__fadeInUp">
+Gwada Shi Yanzu</a>
+        </div>
+      </div>
+
+      <a class="carousel-control-prev" href="#heroCarousel" role="button" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon bx bx-chevron-left" aria-hidden="true"></span>
+      </a>
+
+      <a class="carousel-control-next" href="#heroCarousel" role="button" data-bs-slide="next">
+        <span class="carousel-control-next-icon bx bx-chevron-right" aria-hidden="true"></span>
+      </a>
+
+    </div>
+  </section><!-- End Hero -->
+
+  <main id="main">
+
+
+    <!-- ======= Facts Section ======= -->
+    <section class="facts section-bg" data-aos="fade-up">
+      <div class="container">
+
+        <div class="row counters">
+
+          <div class="col-lg-3 col-6 text-center">
+            <span data-purecounter-start="0" data-purecounter-end="3" data-purecounter-duration="1" data-purecounter-formater="en-US" class="purecounter"></span>
+            <p>Countries</p>
+          </div>
+
+          <div class="col-lg-3 col-6 text-center">
+            <span data-purecounter-start="0" data-purecounter-end="259518" data-purecounter-duration="1"  data-purecounter-formater="en-US" class="purecounter"></span>
+            <p>Water Points</p>
+          </div>
+
+          <div class="col-lg-3 col-6 text-center">
+            <span data-purecounter-start="0" data-purecounter-end="36" data-purecounter-duration="1" data-purecounter-formater="en-US" class="purecounter"></span>
+            <p>Data Contributors</p>
+          </div>
+
+          <div class="col-lg-3 col-6 text-center">
+            <span data-purecounter-start="0" data-purecounter-end="10" data-purecounter-duration="1" data-purecounter-formater="en-US" class="purecounter"></span>
+            <p>Water Source Types</p>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Facts Section -->
+
+	
+    <!-- ======= Why Us Section (h2know: About) ======= -->
+    <section class="why-us section-bg" id="about_link" data-aos="fade-up" date-aos-delay="200">
+      <div class="container">
+
+        <div class="row">
+          <div class="col-lg-6 video-box">
+            <img src="{% static '/img/why-us.jpg'%}" class="img-fluid" alt="">
+          </div>
+
+          <div class="col-lg-6 d-flex flex-column justify-content-center p-5">
+	 		 <div class="section-title">
+	 			 <h2>About</h2>
+		           <p>H2knOw is a web interface that allows people in water stressed & scarce countries to locate the closest functioning water points to their location. The tool is currently a <em>proof of concept</em> that includes Sierra Leone, Nigeria, and Uganda, where collectively 219 million people lack access to safe water.<br><br>As our global population swells and resource-intensive development surges, many countries have become water scarce or water stressed. They face water demands that outpace supply, and grapple with inadequate infrastructure to meet the growing need<sup><a href="https://www.unwater.org/water-facts/water-scarcity" target="_blank">[1]</a></sup>. Climate change has only exacerbated these issues, leading to unpredictable water availability, diminished terrestrial water storage, and disruptive floods or droughts that threaten societies<sup><a href="https://archive.ipcc.ch/pdf/technical-papers/climate-change-water-en.pdf" target="_blank">[2]</a></sup>.<br><br> With 2 billion people lacking access to safe drinking water worldwide<sup><a href="https://unstats.un.org/sdgs/report/2022/Goal-06/?_gl=1*j65eaj*_ga*NDE4ODEyMzg1LjE2ODU1NjQxMjk.*_ga_TK9BQL5X7Z*MTY4NTU2NDEyOC4xLjAuMTY4NTU2NDEyOC4wLjAuMA.." target="_blank">[3]</a></sup>, H2knOw believes that leveraging data-driven solutions has strong potential to lead to a water-secure future for all.</p>
+		         </div>
+
+          </div>
+        </div>
+      </div>
+    </section><!-- End Why Us Section -->
+	
+
+    <!-- ======= Features (Data) Section ======= -->
+    <section class="features" id='data_link'>
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Data Sources</h2>
+        </div>
+
+        <div class="row" data-aos="fade-up">
+          <div class="col-md-5">
+            <img src="{% static '/img/data_sources.svg'%}" class="img-fluid" alt="">
+          </div>
+          <div class="col-md-7 pt-4">
+           <!-- <h3>Data Sources</h3>-->
+            <p class="fst-italic">
+              The following data sources were used in H2knOw’s model:
+            </p>
+            <ul>
+              <li><a href="https://www.waterpointdata.org/">Water Point Data Exchange (WPdx):</a> A platform that facilitates the standardization, sharing, and access of data related to water points (e.g. wells, boreholes, water pumps, etc.). They collaborate with governments, non-governmental organizations, and researchers to collect data and document functionality status.</li>
+              <li><a href="https://databank.worldbank.org/source/world-development-indicators">World Bank Development Indicators:</a> An international financial institution that provides assistance to developing countries to reduce poverty, promote sustainable economic growth, and improve living standards. The model incorporates a variety of their national development indicators.</li>
+			  <li><a href="https://globaldatalab.org/">Global Data Lab:</a> An independent data and research center at the Nijmegen School of Management of Radboud University. They collect socio-economic, demographic, gender and health subnational  indicators from over 500 household survey datasets for low- and middle-income countries (LMICs).</li>
+            </ul>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End Features Section -->
+
+  </main><!-- End #main -->
+
+    <!-- ======= Features Section (Now: methodlogy)======= -->
+    <section id="methodology_link" class="features" >
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2 >Methodology</h2>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-3">
+            <ul class="nav nav-tabs flex-column">
+              <li class="nav-item">
+                <a class="nav-link active show" data-bs-toggle="tab" href="#tab-1">Input & Target Variables</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-2">Algorithm</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-3">Training & Testing</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-4">Evaluation</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-5">Data & Modeling Pipeline</a>
+              </li>           
+			</ul>
+          </div>
+          <div class="col-lg-9 mt-4 mt-lg-0">
+            <div class="tab-content">
+              <div class="tab-pane active show" id="tab-1">
+                <div class="row">
+                  <div class="col-lg-11 mt-4 mt-lg-0 details order-2 order-lg-1">
+                    <h3>Input & Target Variables</h3>
+                    <!--<p class="fst-italic">Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka</p> -->
+                    <p>The inputs to the XGBoost model included 259,518 water point observations for Sierra Leone, Nigeria, and Uganda from WPdx, which includes the following water point information: Geo-coordinates, technology/type of waterpoint, management, their proximity to roads and towns, water quality, staleness of the observation, and historical observations. <br>
+						<br>
+						Additional national and subnational contextual data from the World Bank and Global Data Lab were also used to help the model differentiate between different country and regional contexts.  Country level indicators included features such as GDP growth, political stability, rule of law, government effectiveness, percentage of land area for agriculture, and land surface temperature; regional level indicators included human development index, agricultural employment, average years of female schooling, and log GNI per capita. <br>
+						<br>
+						In total there were 54 input features (before encoding categorical features) with information speaking to the individual water points, and country and regional contexts.<br>
+						<br>
+					Additional national and subnational contextual data from the World Bank and Global Data Lab were also used to help the model differentiate between different country and regional contexts.<br>
+						<br>
+						The target variable is a binary variable on whether or not a water point was functional at the time of the observation. </p>
+                  </div>
+                </div>
+              </div>
+              <div class="tab-pane" id="tab-2">
+                <div class="row">
+                  <div class="col-lg-11 details order-2 order-lg-1">
+                    <h3>Algorithm</h3>
+                   <!-- <p class="fst-italic">Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka</p> -->
+					<p>
+					  <u>XGBoost Algorithm</u>
+					  <br>
+					  H2knOw uses an <strong>XGBoost classification</strong> algorithm to predict whether a water point in question is functional. XGBoost is an ensemble machine learning algorithm that combines multiple weak decision tree learners to form a strong learner. Each new tree attempts to fix the errors of the trees already part of the model until no further improvements can be made.<sup><a href="https://towardsdatascience.com/https-medium-com-vishalmorde-xgboost-algorithm-long-she-may-rein-edd9f99be63d" target="_blank">[1]</a></sup><br>
+					  <br>
+					  As there are some water points that have multiple observations from different points in time, H2knOw uses XGBoost in the context of <strong>time series forecasting</strong> to predict water point functionality. An earlier observation of a water point provides helpful context to improve the prediction of the water point’s future functionality. Additionally, temporal attributes such as an observation’s month and day of month help the model extract any yearly or monthly trends that may affect functionality of a water point (e.g. in relation to dry season or any scheduled maintenance). <br>
+					  <br>
+					  <u>Considerations for COVID-19 Pandemic</u>
+					  <br>
+					  It should also be mentioned that the COVID-19 pandemic changed population behavior significantly, and directly impacted the development of time series in many domains because it led to unrepresentative values in data history, which in turn can hinder model learning<sup><a href="https://cienciadedatos.net/documentos/py45-weighted-time-series-forecasting.html" target="_blank">[2]</a></sup>. This was also the case in developing the final H2knOw model.<br>
+					  The three countries had their highest waves in COVID-19 cases in mid-2020, and in Summer and Winter 2021<sup><a href="https://coronavirus.jhu.edu/region/sierra-leone" target="_blank">[3]</a></sup><sup><a href="https://coronavirus.jhu.edu/region/nigeria" target="_blank">[4]</a></sup><sup><a href="https://coronavirus.jhu.edu/region/uganda" target="_blank">[5]</a></sup>. This timeline affected the frequency of water point observations done during the pandemic.There was a drop in organizations collecting data on water points in 2020 (3,099 observations) and 2021 (4,965 observations) due to the pandemic. Data collection increased significantly in 2022 (17,907 observations) and 2023 (7,416 observations), indicating that much of the information being captured in these two years were a reflection of the large waves of the pandemic in the years just before, and which showed a changed population behavior. It is for this reason that H2KnOw decided to only incorporate data until 2021 in this proof of concept model. 
+					</p>
+                  </div>
+                </div>
+              </div>
+              <div class="tab-pane" id="tab-3">
+                <div class="row">
+                  <div class="col-lg-11 details order-2 order-lg-1">
+                    <h3>Training & Testing</h3>
+                    <p>Given this is a time series model, it was very important to ensure that the training, validation, and test data were split properly to avoid data leakage. The H2KnOw model was trained on water point observations taken from 2005 until 2020 (229,230 observations), and tested on observations from 2021 (4,965 observations); total 234,195 records including historical observations.<br>
+						<br>
+						A 5 fold cross validation with a time series split was used in training the XGBoost model. This means that for each fold, the training dataset (ordered by observation date) was split into a training and validation set by selecting a cut off point. Each successive cut off point moves forward in time. 
+						<br>
+						<br>
+						<img src="{% static '/img/5cv.png'%}" class="img-fluid" alt="">
+						<br>
+						Data from 2021 was not included in the cross validation. It was held out as the final test set to evaluate our selected model on unseen data. <br>
+						<br>
+						<em>Note on model development:</em> the final model was developed via hyperparameter tuning with the help of grid search (which also incorporated a 5-fold cross validation with a time series split in training each potential model).
+					</p>
+                  </div>
+                </div>
+              </div>
+              <div class="tab-pane" id="tab-4">
+                <div class="row">
+                  <div class="col-lg-11 details order-2 order-lg-1">
+                    <h3>Evaluation</h3>
+                     <p><u>Evaluation Metrics</u><br>
+						 There are many ways to determine how a machine learning model performs. For the H2KnOw model, our main metric was the F1 score. The F1 score is a balance between precision and recall, which are two other important metrics. Precision measures the proportion of true positives (correctly predicted positive instances) to all positive predictions. In practical terms it gives us a measure of how confident the model is in making its prediction. Recall, measures the proportion of true positives to all actual positive instances in the dataset. This is a good indicator of how well our model is able to predict the right class. Below are the formulas used to calculate the F1-score, precision and recall:<br>
+					 <img src="{% static '/img/precision.png'%}" class="img-fluid" alt=""> <br>
+					 <img src="{% static '/img/recall.png'%}" class="img-fluid" alt=""><br>
+					 <img src="{% static '/img/f1.png'%}" class="img-fluid" alt=""><br>
+					 <br>
+					 Additionally the below confusion matrix visualizes the relationship between true/false positive/negatives: <br>
+					 <img src="{% static '/img/pos-neg-types.png'%}" class="img-fluid" alt=""><br>
+					 <em>True Positive:</em> Model correctly predicts a functional water point<br>
+					 <em>True Negative:</em> Model correctly predicts a non-functional water point<br>
+	 				 <em>False Positive:</em> Model predicts a water point as functional, when it is actually non-functional<br>
+					 <em>False Negative:</em> Model predicts a water point as non-functional, when it is actually functional<br>
+					 <br>
+					 In addition to the F-1 score, we also looked at accuracy to ensure that the model was making correct predictions. The formula for accuracy is as follows: Accuracy = TP + TN / (TP + TN + FP + FN)<br>
+					 <br>
+					 <u>Model Evaluation</u><br>
+					 Before developing our final model, we established some baselines to serve as a reference for comparison. Our first baseline was based on random guess; i.e. what the probability of a water point being functional is in our training set; this was 58%. Our second baseline was a simple decision tree which had an improved accuracy of 74% and an F1-score of 2%. So while the decision tree had a higher accuracy than the random guess, it had a very weak F-1 score (closer to 100% is ideal) indicating that it was having significant difficulties in correctly classifying the water points. <br>
+					 <br>
+					 The final model outperformed both baselines with an accuracy of 98% and F-1 score of 89%, showing that this model was able to effectively distinguish between functioning and nonfunctioning water points.<br>
+					 <br>
+					 The original WPdx dataset has one observation for a single waterpoint. There is a column in the dataset that has historical data for a portion of the dataset. After retrieving data from the historical data column, we can split the training and testing datasets for the machine learning model by year i.e. 2005-2020 for training and 2021 for testing. This particular split is what occurred in the final model giving us the results listed above.<br>
+					 <br>
+					 The features that were the most predictive included: staleness score (i.e. how old the latest water point observation is), longitude, latitude, installation year, proximity to roads and urban areas, pressure score, crucialness score, and the log gross national income per capita in 1,000 USD (2011 PPP). The pressure (0-100%) score gives a measure of the capacity the water point is functioning at, while the crucialness score (0-100%) is a measure of how important the water point is in a 1km radius; more water points in the 1km radius will lead to a lower score. More information about these scores can be found on the WPdx data guide<sup><a href="https://www.waterpointdata.org/docs/WPdx_User_Guide.pdf" target="_blank">[1]</a></sup>. 
+					 </p>			
+                  </div>
+                </div>
+              </div>
+              <div class="tab-pane" id="tab-5">
+                <div class="row">
+                  <div class="col-lg-11 details order-2 order-lg-1">
+                    <h3>Data & Modeling Pipeline</h3>
+                    <p>Python tools are used to collect, clean, do feature engineering, and modeling tasks. Django is a high-level Python web framework that we use for our web app functionality, primarily calculating the distance between a user and water points that are predicted to be functional. Elastic Beanstalk services deploy the web app for users. <br><img src="{% static '/img/workflow.png'%}" class="img-fluid" alt=""><br>
+						The data pipeline is outlined below: <br><img src="{% static '/img/data_prep.png'%}" class="img-fluid" alt=""><br>
+						The modeling pipeline is outlined below: <br><img src="{% static '/img/model-pipeline.png'%}" class="img-fluid" alt="">				
+					</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End Features Section -->
+<CR>
+    <!-- ======= Features Section (Now: Waterpoint)======= -->
+    <section id="countries_waterpoints" class="faq section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Water Points</h2>
+		  <p>Explore the water points in each country</p>
+        </div>
+
+        <ul class="faq-list">
+
+          <li>
+            <div data-bs-toggle="collapse" class="collapsed question" href="#faq1">Sierra Leone<i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+            <div id="faq1" class="collapse" data-bs-parent=".faq-list">
+              <p><strong>27,011 Water Points</strong><br>
+                <img src="{% static '/img/sle_map.png'%}" class="img-fluid" alt="">	
+              </p>
+            </div>
+          </li>
+
+          <li>
+            <div data-bs-toggle="collapse" href="#faq2" class="collapsed question">Nigeria<i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+            <div id="faq2" class="collapse" data-bs-parent=".faq-list">
+              <p><strong>95,210 Water Points</strong><br>
+                <img src="{% static '/img/nga_map.png'%}" class="img-fluid" alt="">	
+              </p>
+            </div>
+          </li>
+          <li>
+            <div data-bs-toggle="collapse" href="#faq3" class="collapsed question">Uganda<i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+            <div id="faq3" class="collapse" data-bs-parent=".faq-list">
+              <p><strong>92,529 Water Points</strong><br>
+                <img src="{% static '/img/uga_map.png'%}" class="img-fluid" alt="">	
+              </p>
+            </div>
+          </li>
+    <!-- ======= Model considerations/Limitations ======= -->	
+    <section id="considerations_link" class="considerations section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Model Considerations & Limitations</h2>
+        </div>
+        <p>
+          H2knOw is passionate about utilizing cutting-edge technology to address critical water access challenges around the world. Our tool represents a crucial step towards this mission, but it is important to note that the current version is a prototype. As such, we must emphasize that the results generated by the app should not be used as a primary or sole source for individuals or communities seeking information about water accessibility just yet. It will require further steps to take this into production, as described in the Moving Forward section. 
+        </p>
+	</section>
+<CR>
+    
+	<!-- ======= Future Model Opportunities  ======= -->	
+    <section id="future_link" class="future section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Moving Forward</h2>
+        </div>
+        <p>
+		  The H2knOw team hopes that this proof of concept can help water stressed and water scarce communities access safe water. By working together with organizations such as WPdx, NGO actors (e.g. Water Sanitation and Hygiene Global and National Cluster Coordination Groups), international organizations, and government actors who have developed relationships with local populations, H2knOw is confident it can take this proof of concept into production.<br>
+		  <br>
+		  The immediate next step would be to partner with one of the organizations mentioned above in a single country and focus on working with the partner to collect and obtain more granular contextual data, and more up to date water point observations. This would be followed by monitoring the data to see when population behavior will return to how it was pre-pandemic. Once this has been achieved, we would be able to retrain the model, and roll out a pilot version of the application. Depending on how often H2knOw would be able to access new data, the model would have to be updated and maintained accordingly.<br> 	  
+		  <br>
+		  In the future, H2knOw would like to expand this model to other countries, expand the timeline of the working model, and predict with greater confidence at what point in time a water point’s functionality may change. Working with partners to update water point observations and get more granular contextual data will be key in achieving this goal. Another method will be to work with partner organizations to better streamline data collection processes (e.g. provide QR codes at water points that could be used to crowdsource status updates from the public)   
+        </p>
+	</section><CR>
+
+		
+    <!-- ======= Frequently Asked Questions Section ======= -->
+    <section id="faq_link" class="faq section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Frequently Asked Questions</h2>
+        </div>
+
+        <ul class="faq-list">
+
+          <li>
+            <div data-bs-toggle="collapse" class="collapsed question" href="#faq1">How often is the model updated? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+            <div id="faq1" class="collapse" data-bs-parent=".faq-list">
+              <p>
+                This will depend on how often we will be able to update the data we are able to obtain with future partnerships.
+              </p>
+            </div>
+          </li>
+
+          <li>
+            <div data-bs-toggle="collapse" href="#faq2" class="collapsed question">What countries are included? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+            <div id="faq2" class="collapse" data-bs-parent=".faq-list">
+              <p>
+                The current model includes Sierra Leone, Nigeria, and Uganda; but in time we hope to incorporate others. 
+              </p>
+            </div>
+          </li>
+
+          <li>
+            <div data-bs-toggle="collapse" href="#faq3" class="collapsed question">Who is this tool meant for? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+            <div id="faq3" class="collapse" data-bs-parent=".faq-list">
+              <p>
+                Primarily local populations in Sierra Leone, Nigeria, and Uganda who are looking for nearby functioning water sources. The current prototype is not appropriate for water management by local actors. H2knOw looks forward to supporting local actors with a future version of the tool with predicted waterpoint functionality status, other pertinent waterpoint information, and functionality forecasts.
+              </p>
+            </div>
+          </li>
+
+          <li>
+            <div data-bs-toggle="collapse" href="#faq4" class="collapsed question">How did you decide what constitutes a waterpoint as being functional or not? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+            <div id="faq4" class="collapse" data-bs-parent=".faq-list">
+              <p>
+                WPdx requires a “status” for each waterpoint observation uploaded to their platform. WPdx <a href="https://www.waterpointdata.org/wp-content/uploads/2022/02/WPdx-Cleaning-and-Categorization-Processes.pdf">standardizes</a> the various statuses into key terms. H2knOw further standardizes the status by mapping:
+				<br>
+				&emsp;Functional = 'Functional', 'Functional, needs repair', 'Functional, not in use'
+				<br>
+				&emsp;Non-Functional = 'Non-Functional', 'Abandoned/Decommissioned', 'Non-Functional, dry season'
+              </p>
+            </div>
+          </li>
+
+          <li>
+            <div data-bs-toggle="collapse" href="#faq5" class="collapsed question">Why did you choose an XGBoost for modeling? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+            <div id="faq5" class="collapse" data-bs-parent=".faq-list">
+              <p>
+                XGBoost is known to handle null values well, speed (thanks to parallel processing), is robust to multicollinearity, high accuracy, includes measures for regularization to help the model perform better on unseen data, and can scale up easily. 
+              </p>
+            </div>
+          </li>
+		  
+          <li>
+            <div data-bs-toggle="collapse" href="#faq6" class="collapsed question">What is meant by water scarcity?<i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+            <div id="faq6" class="collapse" data-bs-parent=".faq-list">
+              <p>
+                Water scarcity is a physical, objective reality that can be measured consistently across regions and over time.
+              </p>
+            </div>
+          </li>
+
+          <li>
+            <div data-bs-toggle="collapse" href="#faq7" class="collapsed question">What is meant by water stress?<i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+            <div id="faq7" class="collapse" data-bs-parent=".faq-list">
+              <p>
+				Water stress refers to the ability, or lack thereof, to meet human and ecological demand for water.
+              </p>
+            </div>
+          </li>
+          <li>
+            <div data-bs-toggle="collapse" href="#faq8" class="collapsed question">Is user data stored?<i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+            <div id="faq8" class="collapse" data-bs-parent=".faq-list">
+              <p>
+				User information, including cookies, device information, and geolocation, are not saved, retained, or shared by H2knOw. 
+              </p>
+            </div>
+          </li>
+          <li>
+            <div data-bs-toggle="collapse" href="#faq9" class="collapsed question">Why did you choose to test on 2021 only?<i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+            <div id="faq9" class="collapse" data-bs-parent=".faq-list">
+              <p>
+				Since the H2knOw model is a proof of concept, 2021 was withheld from the training of the model in order to prove that in the subsequent years, this model can predict on the new data that WPdx will input. Even though our WPdx data goes up until 2023, we choose to cap our data at 2021 since our secondary data sources only extend to 2021.
+              </p>
+            </div>
+          </li>
+
+        </ul>
+
+      </div>
+    </section><!-- End Frequently Asked Questioins Section -->
+
+
+        <!-- ======= Team Section ======= -->
+        <section id="team_link" class="team">
+          <div class="container">
+
+            <div class="section-title" data-aos="fade-down">
+              <h2>Team</h2>
+			  
+              <p>UC Berkeley - Master of Information and Data Science Capstone Team</p>
+            </div>
+
+            <div class="row">
+
+              <div class="col-xl-3 col-lg-4 col-md-6">
+                <div class="member" data-aos="fade-up" data-aos-delay="100">
+                  <img src="{% static '/img/team/team-1.jpeg'%}" class="img-fluid" alt="">
+                  <div class="member-info">
+                    <div class="member-info-content">
+                      <h4>Anuradha (Annie) Passan</h4>
+                    </div>
+                    <div class="social">
+                      <a href="https://www.linkedin.com/in/anuradha-passan/"><i class="bi bi-linkedin"></i></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-xl-3 col-lg-4 col-md-6 mt-4 mt-md-0">
+                <div class="member" data-aos="fade-up" data-aos-delay="200">
+                  <img src="{% static '/img/team/team-2.jpeg'%}" class="img-fluid" alt="">
+                  <div class="member-info">
+                    <div class="member-info-content">
+                      <h4>Ethan Duncan</h4>
+                    </div>
+                    <div class="social">
+                      <a href="https://www.linkedin.com/in/ethan-duncan/"><i class="bi bi-linkedin"></i></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-xl-3 col-lg-4 col-md-6 mt-4 mt-lg-0" data-wow-delay="0.2s">
+                <div class="member" data-aos="fade-up" data-aos-delay="300">
+                  <img src="{% static '/img/team/team-3.jpeg'%}" class="img-fluid" alt="">
+                  <div class="member-info">
+                    <div class="member-info-content">
+                      <h4>Ivan Escalona</h4>
+                    </div>
+                    <div class="social">
+                      <a href="https://www.linkedin.com/in/ivan-escalona-faria/"><i class="bi bi-linkedin"></i></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-xl-3 col-lg-4 col-md-6 mt-4 mt-lg-0" data-wow-delay="0.3s">
+                <div class="member" data-aos="fade-up" data-aos-delay="400">
+                  <img src="{% static '/img/team/team-4.jpeg'%}" class="img-fluid" alt="">
+                  <div class="member-info">
+                    <div class="member-info-content">
+                      <h4>Bailey Kobuke</h4>
+                    </div>
+                    <div class="social">
+                      <a href="https://www.linkedin.com/in/bailey-kobuke/"><i class="bi bi-linkedin"></i></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+            </div>
+
+          </div>
+        </section><!-- End Team Section -->
+  
+  <!-- ======= Footer ======= -->
+  <footer id="footer" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500">
+
+    <div class="footer-top">
+      <div class="container">
+        <div class="row">
+
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="copyright">
+        &copy; Copyright <strong><span>H2knOw</span></strong>. All Rights Reserved
+      </div>
+      <div class="credits">
+        <!-- All the links in the footer should remain intact. -->
+        <!-- You can delete the links only if you purchased the pro version. -->
+        <!-- Licensing information: https://bootstrapmade.com/license/ -->
+        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/free-bootstrap-template-corporate-moderna/ -->
+        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+      </div>
+    </div>
+  </footer><!-- End Footer -->
+
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="{% static '/vendor/purecounter/purecounter_vanilla.js'%}"></script>
+  <script src="{% static '/vendor/aos/aos.js'%}"></script>
+  <script src="{% static '/vendor/bootstrap/js/bootstrap.bundle.min.js'%}"></script>
+  <script src="{% static '/vendor/glightbox/js/glightbox.min.js'%}"></script>
+  <script src="{% static '/vendor/isotope-layout/isotope.pkgd.min.js'%}"></script>
+  <script src="{% static '/vendor/swiper/swiper-bundle.min.js'%}"></script>
+  <script src="{% static '/vendor/waypoints/noframework.waypoints.js'%}"></script>
+  <script src="{% static '/vendor/php-email-form/validate.js'%}"></script>
+
+  <!-- Template Main JS File -->
+  <script src="{% static '/js/main.js'%}"></script>
+
+</body>
+
+</html>

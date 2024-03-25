@@ -1,0 +1,1089 @@
+﻿Country,Region,Year,log_gni_cap_1000usd_2011ppp,hdi,perc_emp_women_agric,perc_emp_men_agric,avg_yrs_school_female
+Nigeria,Abia,2005,8.46,0.566,26.5,18.3,6.348
+Nigeria,Abuja FCT,2005,8.906,0.543,8.88,10.3,5.065
+Nigeria,Adamawa,2005,7.782,0.432,30.1,44.8,2.251
+Nigeria,Akwa Ibom,2005,8.224,0.535,28.7,26.1,5.981
+Nigeria,Anambra,2005,8.692,0.585,18.6,13.2,7.217
+Nigeria,Bauchi,2005,7.634,0.318,7.24,49,1.038
+Nigeria,Bayelsa,2005,7.739,0.481,50.3,28.7,4.762
+Nigeria,Benue,2005,7.854,0.481,72.5,65.5,3.179
+Nigeria,Borno,2005,8.051,0.377,35.2,32.7,1.948
+Nigeria,Cross River,2005,7.997,0.537,57.4,42.1,5.343
+Nigeria,Delta,2005,8.376,0.547,24.1,17.1,5.838
+Nigeria,Ebonyi,2005,7.686,0.454,62,56.6,2.624
+Nigeria,Edo,2005,8.443,0.537,29,21.2,5.041
+Nigeria,Ekiti,2005,8.253,0.545,19,35.8,5.814
+Nigeria,Enugu,2005,8.343,0.55,41.8,36.5,5.329
+Nigeria,Gombe,2005,7.791,0.405,29.9,56.5,2.299
+Nigeria,Imo,2005,8.884,0.635,11.6,12.9,8.015
+Nigeria,Jigawa,2005,7.491,0.288,13.8,67.5,0.615
+Nigeria,Kaduna,2005,8.413,0.473,17,56.8,3.439
+Nigeria,Kano,2005,8.258,0.409,1.69,19.9,1.535
+Nigeria,Katsina,2005,8.038,0.374,4.25,41,1.144
+Nigeria,Kebbi,2005,7.77,0.335,21.2,66.4,0.956
+Nigeria,Kogi,2005,8.296,0.544,18.9,33.5,4.025
+Nigeria,Kwara,2005,8.353,0.568,15.8,33.8,4.115
+Nigeria,Lagos,2005,9.036,0.626,1.04,3.08,8.865
+Nigeria,Nasarawa,2005,8.045,0.467,41.1,53.6,2.565
+Nigeria,Niger,2005,8.052,0.432,11.2,48.1,1.595
+Nigeria,Ogun,2005,8.245,0.52,29.7,39.1,5.448
+Nigeria,Ondo,2005,8.077,0.546,38.5,57.8,5.121
+Nigeria,Osun,2005,8.286,0.543,18.8,35.1,4.431
+Nigeria,Oyo,2005,8.277,0.566,18.8,31.2,5.001
+Nigeria,Plateau,2005,8.019,0.504,56.1,46.2,4.269
+Nigeria,Rivers,2005,8.511,0.548,20.4,19.3,7.171
+Nigeria,Sokoto,2005,7.511,0.28,12.1,46.9,0.455
+Nigeria,Taraba,2005,7.723,0.392,28.1,60.9,1.936
+Nigeria,Yobe,2005,8.049,0.38,11,31.6,1.389
+Nigeria,Zamfora,2005,7.796,0.351,2.33,45,0.389
+Sierra Leone,Bo,2005,7.049,0.365,66.1,52.7,1.763
+Sierra Leone,Bombali,2005,6.975,0.386,41.5,35.4,1.357
+Sierra Leone,Bonthe,2005,6.873,0.324,49,60.1,1.371
+Sierra Leone,Kailahun,2005,6.824,0.353,84.2,77.8,1.049
+Sierra Leone,Kambia,2005,6.976,0.333,67,76.7,0.462
+Sierra Leone,Kenema,2005,7.016,0.362,73.4,61.8,1.371
+Sierra Leone,Koinadugu,2005,6.83,0.278,91,86,0.406
+Sierra Leone,Kono,2005,6.883,0.353,69,53.7,1.189
+Sierra Leone,Moyamba,2005,6.781,0.329,84.3,82.3,1.455
+Sierra Leone,Port Loko,2005,6.934,0.352,63.8,72.7,1.161
+Sierra Leone,Pujehun,2005,6.849,0.287,81.1,102,0.811
+Sierra Leone,Tonkolili,2005,6.8,0.308,87.9,89.1,0.615
+Sierra Leone,Western Rural,2005,7.476,0.403,9.1,32,3.595
+Sierra Leone,Western Urban,2005,7.935,0.521,0.01,3.54,7.582
+Uganda,Central 1 (Central South),2005,7.389,0.466,57.2,40.4,5.484
+Uganda,Central 2 (Central North),2005,7.325,0.472,67.7,49.7,5.142
+Uganda,East Central (Busoga),2005,7.263,0.468,85.9,54.3,4.375
+Uganda,"Eastern (Bukedi, Bugishu, Teso)",2005,7.125,0.461,92.4,57.5,3.691
+Uganda,Kampala,2005,8.095,0.588,2.07,3.39,10.08
+Uganda,"North (Karamoja, Lango, Acholi)",2005,7.041,0.405,93.6,75.5,2.488
+Uganda,"Southwest (Ankole, Kigezi)",2005,7.267,0.434,84,60.1,3.55
+Uganda,West Nile,2005,7.114,0.428,69.1,61.9,2.878
+Uganda,"Western (Bunyoro, Tooro)",2005,7.209,0.436,88.9,67.9,3.22
+Uganda,Central,2005,7.603,0.508666667,42.32333333,31.16333333,6.902
+Uganda,Northern,2005,7.0775,0.4165,81.35,68.7,2.683
+Uganda,Eastern,2005,7.194,0.4645,89.15,55.9,4.033
+Uganda,Western,2005,7.238,0.435,86.45,64,3.385
+Nigeria,Abia,2006,8.639,0.568,25,15.8,6.669
+Nigeria,Abuja FCT,2006,9.032,0.57,11.5,14.1,6.238
+Nigeria,Adamawa,2006,7.861,0.432,35.1,47.9,2.379
+Nigeria,Akwa Ibom,2006,8.366,0.542,21.8,22.3,6.344
+Nigeria,Anambra,2006,8.803,0.582,17.5,13.5,7.242
+Nigeria,Bauchi,2006,7.705,0.322,6.17,50.1,1.086
+Nigeria,Bayelsa,2006,7.932,0.494,48.1,27.6,5.098
+Nigeria,Benue,2006,7.906,0.481,76.3,66.8,3.234
+Nigeria,Borno,2006,8.042,0.357,43.7,39.9,1.649
+Nigeria,Cross River,2006,8.051,0.542,58.4,44.1,5.569
+Nigeria,Delta,2006,8.507,0.557,26.9,18.8,6.076
+Nigeria,Ebonyi,2006,7.849,0.467,58.3,53.5,2.928
+Nigeria,Edo,2006,8.616,0.557,28.4,24.2,5.751
+Nigeria,Ekiti,2006,8.356,0.559,17.2,36.2,6.16
+Nigeria,Enugu,2006,8.37,0.542,37.8,34.3,5.112
+Nigeria,Gombe,2006,7.859,0.408,29.3,57.9,2.341
+Nigeria,Imo,2006,8.875,0.609,14.1,12.5,7.567
+Nigeria,Jigawa,2006,7.605,0.302,9.96,64.1,0.717
+Nigeria,Kaduna,2006,8.477,0.482,20.9,57.5,3.625
+Nigeria,Kano,2006,8.287,0.412,1.31,22.1,1.671
+Nigeria,Katsina,2006,8.059,0.363,6.38,47.9,0.94
+Nigeria,Kebbi,2006,7.866,0.343,23.4,67.4,0.998
+Nigeria,Kogi,2006,8.378,0.551,20.5,37,4.192
+Nigeria,Kwara,2006,8.389,0.557,22.6,40.5,4.262
+Nigeria,Lagos,2006,9.174,0.634,1.21,3.54,9.082
+Nigeria,Nasarawa,2006,8.142,0.48,50,55,2.825
+Nigeria,Niger,2006,8.179,0.43,12.7,53.2,1.751
+Nigeria,Ogun,2006,8.32,0.525,29.1,37.8,5.284
+Nigeria,Ondo,2006,8.216,0.556,34.4,52.6,5.37
+Nigeria,Osun,2006,8.39,0.567,13.6,32.7,4.938
+Nigeria,Oyo,2006,8.39,0.565,17.6,30.2,5.11
+Nigeria,Plateau,2006,8.034,0.506,57.1,50.2,4.208
+Nigeria,Rivers,2006,8.591,0.555,22.4,20.6,7.338
+Nigeria,Sokoto,2006,7.653,0.297,8.22,46.4,0.517
+Nigeria,Taraba,2006,7.795,0.409,37.1,63.3,2.162
+Nigeria,Yobe,2006,7.985,0.366,15.2,41.1,1.216
+Nigeria,Zamfora,2006,7.826,0.343,2.43,46.8,0.523
+Sierra Leone,Bo,2006,7.062,0.375,62.9,51.2,1.831
+Sierra Leone,Bombali,2006,6.988,0.396,44.3,38.8,1.409
+Sierra Leone,Bonthe,2006,6.885,0.333,49.6,61.8,1.424
+Sierra Leone,Kailahun,2006,6.836,0.362,82.1,76.4,1.09
+Sierra Leone,Kambia,2006,6.989,0.342,66.3,76.8,0.479
+Sierra Leone,Kenema,2006,7.028,0.371,70.4,60.2,1.424
+Sierra Leone,Koinadugu,2006,6.842,0.286,89,84.3,0.421
+Sierra Leone,Kono,2006,6.895,0.363,66.3,52.4,1.235
+Sierra Leone,Moyamba,2006,6.793,0.338,83.3,81.5,1.511
+Sierra Leone,Port Loko,2006,6.946,0.361,61.3,71.2,1.206
+Sierra Leone,Pujehun,2006,6.862,0.295,77.7,95.2,0.843
+Sierra Leone,Tonkolili,2006,6.812,0.316,83.8,84.7,0.639
+Sierra Leone,Western Rural,2006,7.49,0.414,8.94,30.4,3.734
+Sierra Leone,Western Urban,2006,7.949,0.534,0.19,4.13,7.875
+Uganda,Central 1 (Central South),2006,7.465,0.479,56.4,44.2,5.93
+Uganda,Central 2 (Central North),2006,7.4,0.485,66.8,51.9,5.56
+Uganda,East Central (Busoga),2006,7.338,0.481,83.3,55.9,4.731
+Uganda,"Eastern (Bukedi, Bugishu, Teso)",2006,7.199,0.473,90.7,59.6,3.991
+Uganda,Kampala,2006,8.178,0.603,3.11,5.07,10.9
+Uganda,"North (Karamoja, Lango, Acholi)",2006,7.114,0.417,88.5,74.9,2.691
+Uganda,"Southwest (Ankole, Kigezi)",2006,7.342,0.446,84.2,61.5,3.838
+Uganda,West Nile,2006,7.188,0.44,64.9,62.5,3.112
+Uganda,"Western (Bunyoro, Tooro)",2006,7.284,0.448,87.4,68.3,3.481
+Uganda,Central,2006,7.681,0.522333333,42.10333333,33.72333333,7.463333333
+Uganda,Northern,2006,7.151,0.4285,76.7,68.7,2.9015
+Uganda,Eastern,2006,7.2685,0.477,87,57.75,4.361
+Uganda,Western,2006,7.313,0.447,85.8,64.9,3.6595
+Nigeria,Abia,2007,8.726,0.564,23.5,13.2,6.99
+Nigeria,Abuja FCT,2007,9.062,0.59,14.2,17.9,7.411
+Nigeria,Adamawa,2007,7.856,0.428,40.2,51,2.506
+Nigeria,Akwa Ibom,2007,8.418,0.544,14.9,18.4,6.708
+Nigeria,Anambra,2007,8.82,0.573,16.4,13.7,7.267
+Nigeria,Bauchi,2007,7.693,0.323,5.1,51.2,1.134
+Nigeria,Bayelsa,2007,8.042,0.502,45.8,26.5,5.434
+Nigeria,Benue,2007,7.872,0.477,80,68.2,3.29
+Nigeria,Borno,2007,7.946,0.333,52.3,47.1,1.35
+Nigeria,Cross River,2007,8.018,0.542,59.4,46.1,5.794
+Nigeria,Delta,2007,8.548,0.562,29.7,20.4,6.313
+Nigeria,Ebonyi,2007,7.929,0.476,54.6,50.4,3.232
+Nigeria,Edo,2007,8.697,0.572,27.8,27.1,6.461
+Nigeria,Ekiti,2007,8.369,0.567,15.4,36.5,6.505
+Nigeria,Enugu,2007,8.308,0.53,33.8,32.1,4.895
+Nigeria,Gombe,2007,7.843,0.406,28.6,59.3,2.382
+Nigeria,Imo,2007,8.77,0.577,16.5,12.2,7.119
+Nigeria,Jigawa,2007,7.639,0.311,6.16,60.7,0.819
+Nigeria,Kaduna,2007,8.45,0.487,24.7,58.1,3.811
+Nigeria,Kano,2007,8.226,0.411,0.92,24.3,1.807
+Nigeria,Katsina,2007,7.992,0.348,8.51,54.9,0.735
+Nigeria,Kebbi,2007,7.879,0.347,25.6,68.3,1.04
+Nigeria,Kogi,2007,8.371,0.552,22.1,40.4,4.36
+Nigeria,Kwara,2007,8.335,0.541,29.3,47.2,4.41
+Nigeria,Lagos,2007,9.215,0.636,1.39,4.01,9.298
+Nigeria,Nasarawa,2007,8.152,0.489,59,56.5,3.085
+Nigeria,Niger,2007,8.219,0.424,14.2,58.2,1.907
+Nigeria,Ogun,2007,8.305,0.524,28.4,36.4,5.121
+Nigeria,Ondo,2007,8.269,0.561,30.3,47.4,5.62
+Nigeria,Osun,2007,8.404,0.585,8.46,30.2,5.444
+Nigeria,Oyo,2007,8.414,0.558,16.4,29.3,5.219
+Nigeria,Plateau,2007,7.963,0.503,58.1,54.3,4.147
+Nigeria,Rivers,2007,8.579,0.557,24.5,21.8,7.505
+Nigeria,Sokoto,2007,7.714,0.309,4.38,45.8,0.579
+Nigeria,Taraba,2007,7.783,0.421,46.1,65.7,2.388
+Nigeria,Yobe,2007,7.835,0.348,19.5,50.7,1.044
+Nigeria,Zamfora,2007,7.771,0.331,2.53,48.5,0.657
+Sierra Leone,Bo,2007,7.178,0.39,59.8,49.6,1.899
+Sierra Leone,Bombali,2007,7.103,0.412,47.2,42.3,1.462
+Sierra Leone,Bonthe,2007,6.998,0.347,50.2,63.4,1.477
+Sierra Leone,Kailahun,2007,6.949,0.377,80.1,75.1,1.13
+Sierra Leone,Kambia,2007,7.104,0.355,65.6,76.8,0.497
+Sierra Leone,Kenema,2007,7.144,0.386,67.4,58.5,1.477
+Sierra Leone,Koinadugu,2007,6.955,0.298,87.1,82.6,0.437
+Sierra Leone,Kono,2007,7.009,0.377,63.7,51.2,1.281
+Sierra Leone,Moyamba,2007,6.905,0.351,82.2,80.7,1.567
+Sierra Leone,Port Loko,2007,7.061,0.376,58.7,69.8,1.251
+Sierra Leone,Pujehun,2007,6.975,0.307,74.4,88.4,0.874
+Sierra Leone,Tonkolili,2007,6.925,0.329,79.6,80.4,0.663
+Sierra Leone,Western Rural,2007,7.613,0.43,8.78,28.8,3.873
+Sierra Leone,Western Urban,2007,8.081,0.554,0.37,4.72,8.168
+Uganda,Central 1 (Central South),2007,7.523,0.489,55.6,48.1,6.263
+Uganda,Central 2 (Central North),2007,7.455,0.495,65.9,54,5.895
+Uganda,East Central (Busoga),2007,7.381,0.487,80.7,57.4,5.027
+Uganda,"Eastern (Bukedi, Bugishu, Teso)",2007,7.241,0.481,88.9,61.7,4.256
+Uganda,Kampala,2007,8.249,0.612,7.77,10.5,11.41
+Uganda,"North (Karamoja, Lango, Acholi)",2007,7.153,0.425,83.4,74.3,2.891
+Uganda,"Southwest (Ankole, Kigezi)",2007,7.386,0.455,84.4,62.8,4.027
+Uganda,West Nile,2007,7.222,0.446,60.7,63,3.298
+Uganda,"Western (Bunyoro, Tooro)",2007,7.347,0.459,85.9,68.8,3.901
+Uganda,Central,2007,7.742333333,0.532,43.09,37.53333333,7.856
+Uganda,Northern,2007,7.1875,0.4355,72.05,68.65,3.0945
+Uganda,Eastern,2007,7.311,0.484,84.8,59.55,4.6415
+Uganda,Western,2007,7.3665,0.457,85.15,65.8,3.964
+Nigeria,Abia,2008,8.846,0.56,22,10.6,7.312
+Nigeria,Abuja FCT,2008,9.127,0.611,16.8,21.7,8.584
+Nigeria,Adamawa,2008,7.881,0.425,45.2,54,2.634
+Nigeria,Akwa Ibom,2008,8.503,0.548,8.01,14.6,7.071
+Nigeria,Anambra,2008,8.871,0.565,15.4,14,7.292
+Nigeria,Bauchi,2008,7.71,0.325,4.03,52.4,1.182
+Nigeria,Bayelsa,2008,8.182,0.511,43.6,25.4,5.769
+Nigeria,Benue,2008,7.869,0.473,83.8,69.6,3.345
+Nigeria,Borno,2008,7.879,0.307,60.8,54.2,1.052
+Nigeria,Cross River,2008,8.015,0.543,60.4,48.2,6.02
+Nigeria,Delta,2008,8.622,0.567,32.5,22.1,6.551
+Nigeria,Ebonyi,2008,8.04,0.485,50.8,47.3,3.536
+Nigeria,Edo,2008,8.811,0.587,27.2,30.1,7.172
+Nigeria,Ekiti,2008,8.414,0.576,13.6,36.8,6.851
+Nigeria,Enugu,2008,8.277,0.518,29.9,29.9,4.678
+Nigeria,Gombe,2008,7.857,0.406,27.9,60.7,2.424
+Nigeria,Imo,2008,8.697,0.546,19,11.8,6.671
+Nigeria,Jigawa,2008,7.701,0.321,2.36,57.3,0.921
+Nigeria,Kaduna,2008,8.455,0.492,28.6,58.7,3.996
+Nigeria,Kano,2008,8.197,0.411,0.53,26.6,1.943
+Nigeria,Katsina,2008,7.956,0.332,10.6,61.8,0.531
+Nigeria,Kebbi,2008,7.921,0.351,27.8,69.3,1.082
+Nigeria,Kogi,2008,8.395,0.555,23.7,43.9,4.527
+Nigeria,Kwara,2008,8.312,0.526,36.1,53.9,4.557
+Nigeria,Lagos,2008,9.291,0.64,1.56,4.48,9.515
+Nigeria,Nasarawa,2008,8.193,0.498,67.9,58,3.345
+Nigeria,Niger,2008,8.291,0.419,15.7,63.3,2.063
+Nigeria,Ogun,2008,8.322,0.525,27.8,35,4.958
+Nigeria,Ondo,2008,8.353,0.567,26.2,42.2,5.869
+Nigeria,Osun,2008,8.451,0.604,3.3,27.8,5.95
+Nigeria,Oyo,2008,8.47,0.552,15.3,28.3,5.329
+Nigeria,Plateau,2008,7.921,0.501,59.1,58.3,4.087
+Nigeria,Rivers,2008,8.599,0.56,26.6,23.1,7.672
+Nigeria,Sokoto,2008,7.805,0.322,0.53,45.3,0.641
+Nigeria,Taraba,2008,7.8,0.432,55.1,68,2.614
+Nigeria,Yobe,2008,7.713,0.329,23.8,60.3,0.871
+Nigeria,Zamfora,2008,7.745,0.319,2.63,50.2,0.791
+Sierra Leone,Bo,2008,7.233,0.402,56.7,48.1,1.967
+Sierra Leone,Bombali,2008,7.157,0.425,50,45.8,1.514
+Sierra Leone,Bonthe,2008,7.052,0.358,50.7,65.1,1.53
+Sierra Leone,Kailahun,2008,7.002,0.388,78.1,73.8,1.171
+Sierra Leone,Kambia,2008,7.158,0.367,64.8,76.8,0.515
+Sierra Leone,Kenema,2008,7.199,0.398,64.4,56.9,1.53
+Sierra Leone,Koinadugu,2008,7.008,0.307,85.2,80.9,0.453
+Sierra Leone,Kono,2008,7.063,0.39,61.1,50,1.327
+Sierra Leone,Moyamba,2008,6.958,0.363,81.1,79.9,1.624
+Sierra Leone,Port Loko,2008,7.115,0.388,56.1,68.3,1.296
+Sierra Leone,Pujehun,2008,7.028,0.317,71.1,81.6,0.905
+Sierra Leone,Tonkolili,2008,6.978,0.34,75.4,76,0.687
+Sierra Leone,Western Rural,2008,7.672,0.443,8.62,27.2,4.012
+Sierra Leone,Western Urban,2008,8.142,0.57,0.55,5.32,8.461
+Uganda,Central 1 (Central South),2008,7.579,0.497,54.8,52,6.59
+Uganda,Central 2 (Central North),2008,7.508,0.504,65,56.2,6.227
+Uganda,East Central (Busoga),2008,7.423,0.492,78,59,5.32
+Uganda,"Eastern (Bukedi, Bugishu, Teso)",2008,7.283,0.487,87.2,63.8,4.518
+Uganda,Kampala,2008,8.318,0.62,12.4,16,11.91
+Uganda,"North (Karamoja, Lango, Acholi)",2008,7.191,0.433,78.3,73.7,3.092
+Uganda,"Southwest (Ankole, Kigezi)",2008,7.428,0.462,84.6,64.1,4.211
+Uganda,West Nile,2008,7.255,0.452,56.6,63.5,3.482
+Uganda,"Western (Bunyoro, Tooro)",2008,7.408,0.468,84.4,69.3,4.33
+Uganda,Central,2008,7.801666667,0.540333333,44.06666667,41.4,8.242333333
+Uganda,Northern,2008,7.223,0.4425,67.45,68.6,3.287
+Uganda,Eastern,2008,7.353,0.4895,82.6,61.4,4.919
+Uganda,Western,2008,7.418,0.465,84.5,66.7,4.2705
+Nigeria,Abia,2009,8.849,0.559,23.1,13,7.002
+Nigeria,Abuja FCT,2009,9.173,0.616,15.9,22,8.365
+Nigeria,Adamawa,2009,7.994,0.435,42.2,51,2.76
+Nigeria,Akwa Ibom,2009,8.568,0.554,10,16.2,6.731
+Nigeria,Anambra,2009,8.947,0.575,15.3,15,7.205
+Nigeria,Bauchi,2009,7.766,0.332,3.91,53,1.234
+Nigeria,Bayelsa,2009,8.293,0.525,41.1,27.2,5.756
+Nigeria,Benue,2009,7.927,0.479,80.7,68.6,3.322
+Nigeria,Borno,2009,7.973,0.33,52.6,53,1.198
+Nigeria,Cross River,2009,8.104,0.542,57.1,47.4,5.714
+Nigeria,Delta,2009,8.668,0.571,30.8,22.6,6.403
+Nigeria,Ebonyi,2009,8.081,0.486,48.3,46.5,3.525
+Nigeria,Edo,2009,8.853,0.59,25.9,29.4,6.901
+Nigeria,Ekiti,2009,8.533,0.579,12.2,33.4,6.776
+Nigeria,Enugu,2009,8.353,0.522,29.4,29,4.668
+Nigeria,Gombe,2009,7.948,0.405,23.8,59.8,2.298
+Nigeria,Imo,2009,8.74,0.549,18,11.4,6.53
+Nigeria,Jigawa,2009,7.776,0.324,2.39,54.6,0.876
+Nigeria,Kaduna,2009,8.505,0.5,23.9,54.7,4.033
+Nigeria,Kano,2009,8.246,0.416,0.59,26.2,1.828
+Nigeria,Katsina,2009,8.008,0.336,9.09,58.4,0.612
+Nigeria,Kebbi,2009,7.953,0.35,23.9,67.2,1.003
+Nigeria,Kogi,2009,8.444,0.558,22.8,42.3,4.446
+Nigeria,Kwara,2009,8.457,0.542,29.9,47.3,4.611
+Nigeria,Lagos,2009,9.302,0.634,1.43,4.15,9.065
+Nigeria,Nasarawa,2009,8.268,0.5,64.7,56.6,3.271
+Nigeria,Niger,2009,8.33,0.43,14.3,61.6,1.957
+Nigeria,Ogun,2009,8.382,0.529,24.8,32.5,4.861
+Nigeria,Ondo,2009,8.44,0.566,25,42.1,5.925
+Nigeria,Osun,2009,8.545,0.606,3.91,26.9,5.974
+Nigeria,Oyo,2009,8.534,0.553,14.6,28.6,5.295
+Nigeria,Plateau,2009,8.017,0.502,54.6,55.6,4.035
+Nigeria,Rivers,2009,8.658,0.566,26.4,23.7,7.582
+Nigeria,Sokoto,2009,7.869,0.324,0.49,41.7,0.62
+Nigeria,Taraba,2009,7.852,0.435,51.4,64.7,2.588
+Nigeria,Yobe,2009,7.767,0.322,21.5,59.3,0.853
+Nigeria,Zamfora,2009,7.791,0.322,2.44,47.6,0.745
+Sierra Leone,Bo,2009,7.258,0.415,53.5,46.5,2.099
+Sierra Leone,Bombali,2009,7.188,0.438,52.8,49.3,1.642
+Sierra Leone,Bonthe,2009,7.064,0.375,51.3,66.8,1.623
+Sierra Leone,Kailahun,2009,7.014,0.397,76.1,72.5,1.294
+Sierra Leone,Kambia,2009,7.173,0.376,64.1,76.9,0.583
+Sierra Leone,Kenema,2009,7.225,0.406,61.4,55.2,1.689
+Sierra Leone,Koinadugu,2009,7.011,0.321,83.3,79.2,0.486
+Sierra Leone,Kono,2009,7.084,0.398,58.4,48.8,1.335
+Sierra Leone,Moyamba,2009,6.978,0.371,80.1,79.1,1.585
+Sierra Leone,Port Loko,2009,7.135,0.395,53.5,66.8,1.366
+Sierra Leone,Pujehun,2009,7.065,0.333,67.7,74.8,0.99
+Sierra Leone,Tonkolili,2009,7.022,0.357,71.3,71.7,0.843
+Sierra Leone,Western Rural,2009,7.681,0.459,8.46,25.7,4.211
+Sierra Leone,Western Urban,2009,8.174,0.578,1.06,5.91,8.456
+Uganda,Central 1 (Central South),2009,7.617,0.507,54,55.9,6.523
+Uganda,Central 2 (Central North),2009,7.543,0.514,64.1,58.4,6.186
+Uganda,East Central (Busoga),2009,7.448,0.499,75.4,60.6,5.295
+Uganda,"Eastern (Bukedi, Bugishu, Teso)",2009,7.307,0.494,85.4,65.9,4.51
+Uganda,Kampala,2009,8.367,0.63,17.1,21.5,11.69
+Uganda,"North (Karamoja, Lango, Acholi)",2009,7.211,0.442,73.2,73.1,3.107
+Uganda,"Southwest (Ankole, Kigezi)",2009,7.454,0.471,84.8,65.5,4.144
+Uganda,West Nile,2009,7.271,0.458,52.4,64.1,3.458
+Uganda,"Western (Bunyoro, Tooro)",2009,7.452,0.479,82.9,69.8,4.497
+Uganda,Central,2009,7.842333333,0.550333333,45.06666667,45.26666667,8.133
+Uganda,Northern,2009,7.241,0.45,62.8,68.6,3.2825
+Uganda,Eastern,2009,7.3775,0.4965,80.4,63.25,4.9025
+Uganda,Western,2009,7.453,0.475,83.85,67.65,4.3205
+Nigeria,Abia,2010,8.849,0.556,24.2,15.4,6.69
+Nigeria,Abuja FCT,2010,9.219,0.618,15,22.2,8.128
+Nigeria,Adamawa,2010,8.107,0.445,39.2,48.1,2.86
+Nigeria,Akwa Ibom,2010,8.633,0.559,12.1,17.7,6.393
+Nigeria,Anambra,2010,9.022,0.582,15.3,16.1,7.091
+Nigeria,Bauchi,2010,7.822,0.338,3.78,53.7,1.275
+Nigeria,Bayelsa,2010,8.403,0.537,38.6,28.9,5.716
+Nigeria,Benue,2010,7.983,0.483,77.7,67.7,3.284
+Nigeria,Borno,2010,8.066,0.352,44.4,51.7,1.323
+Nigeria,Cross River,2010,8.193,0.54,53.8,46.7,5.413
+Nigeria,Delta,2010,8.713,0.572,29,23.1,6.239
+Nigeria,Ebonyi,2010,8.122,0.485,45.7,45.7,3.497
+Nigeria,Edo,2010,8.893,0.591,24.6,28.8,6.625
+Nigeria,Ekiti,2010,8.651,0.58,10.7,29.9,6.676
+Nigeria,Enugu,2010,8.428,0.525,28.9,28.2,4.636
+Nigeria,Gombe,2010,8.038,0.402,19.7,58.9,2.174
+Nigeria,Imo,2010,8.781,0.549,17,11.1,6.371
+Nigeria,Jigawa,2010,7.85,0.327,2.43,52,0.831
+Nigeria,Kaduna,2010,8.553,0.506,19.3,50.7,4.045
+Nigeria,Kano,2010,8.294,0.42,0.66,25.9,1.715
+Nigeria,Katsina,2010,8.059,0.338,7.54,54.9,0.682
+Nigeria,Kebbi,2010,7.983,0.347,19.9,65.1,0.928
+Nigeria,Kogi,2010,8.492,0.558,21.9,40.7,4.351
+Nigeria,Kwara,2010,8.602,0.556,23.7,40.7,4.636
+Nigeria,Lagos,2010,9.312,0.626,1.3,3.83,8.617
+Nigeria,Nasarawa,2010,8.341,0.501,61.4,55.2,3.187
+Nigeria,Niger,2010,8.369,0.439,12.8,59.8,1.852
+Nigeria,Ogun,2010,8.44,0.532,21.9,29.9,4.751
+Nigeria,Ondo,2010,8.526,0.563,23.7,41.9,5.945
+Nigeria,Osun,2010,8.638,0.605,4.51,26,5.966
+Nigeria,Oyo,2010,8.597,0.552,13.9,28.9,5.239
+Nigeria,Plateau,2010,8.112,0.501,50.1,53,3.968
+Nigeria,Rivers,2010,8.715,0.57,26.1,24.4,7.463
+Nigeria,Sokoto,2010,7.933,0.325,0.45,38.2,0.598
+Nigeria,Taraba,2010,7.903,0.435,47.6,61.3,2.552
+Nigeria,Yobe,2010,7.82,0.313,19.3,58.3,0.833
+Nigeria,Zamfora,2010,7.836,0.324,2.25,45.1,0.7
+Sierra Leone,Bo,2010,7.222,0.424,50.4,45,2.232
+Sierra Leone,Bombali,2010,7.158,0.448,55.7,52.8,1.77
+Sierra Leone,Bonthe,2010,7.017,0.387,51.8,68.4,1.716
+Sierra Leone,Kailahun,2010,6.967,0.402,74,71.2,1.418
+Sierra Leone,Kambia,2010,7.127,0.382,63.4,76.9,0.651
+Sierra Leone,Kenema,2010,7.191,0.41,58.4,53.6,1.848
+Sierra Leone,Koinadugu,2010,6.955,0.332,81.4,77.6,0.519
+Sierra Leone,Kono,2010,7.046,0.402,55.8,47.6,1.342
+Sierra Leone,Moyamba,2010,6.939,0.375,79,78.3,1.547
+Sierra Leone,Port Loko,2010,7.095,0.4,50.9,65.3,1.436
+Sierra Leone,Pujehun,2010,7.042,0.346,64.4,68,1.075
+Sierra Leone,Tonkolili,2010,7.008,0.37,67.1,67.3,1
+Sierra Leone,Western Rural,2010,7.625,0.472,8.3,24.1,4.41
+Sierra Leone,Western Urban,2010,8.137,0.583,1.57,6.5,8.449
+Uganda,Central 1 (Central South),2010,7.642,0.516,53.2,59.7,6.464
+Uganda,Central 2 (Central North),2010,7.565,0.523,63.2,60.5,6.15
+Uganda,East Central (Busoga),2010,7.459,0.504,72.8,62.2,5.273
+Uganda,"Eastern (Bukedi, Bugishu, Teso)",2010,7.318,0.501,83.6,68.1,4.504
+Uganda,Kampala,2010,8.402,0.639,21.8,27,11.49
+Uganda,"North (Karamoja, Lango, Acholi)",2010,7.219,0.449,68.1,72.5,3.123
+Uganda,"Southwest (Ankole, Kigezi)",2010,7.466,0.478,85,66.8,4.082
+Uganda,West Nile,2010,7.274,0.463,48.2,64.6,3.437
+Uganda,"Western (Bunyoro, Tooro)",2010,7.482,0.489,81.4,70.2,4.655
+Uganda,Central,2010,7.869666667,0.559333333,46.06666667,49.06666667,8.034666667
+Uganda,Northern,2010,7.2465,0.456,58.15,68.55,3.28
+Uganda,Eastern,2010,7.3885,0.5025,78.2,65.15,4.8885
+Uganda,Western,2010,7.474,0.4835,83.2,68.5,4.3685
+Nigeria,Abia,2011,8.83,0.567,25.3,17.8,7.041
+Nigeria,Abuja FCT,2011,9.243,0.635,14.2,22.4,8.694
+Nigeria,Adamawa,2011,8.201,0.464,36.1,45.1,3.238
+Nigeria,Akwa Ibom,2011,8.678,0.577,14.1,19.2,6.689
+Nigeria,Anambra,2011,9.077,0.604,15.2,17.2,7.677
+Nigeria,Bauchi,2011,7.859,0.352,3.66,54.4,1.44
+Nigeria,Bayelsa,2011,8.494,0.562,36.1,30.7,6.238
+Nigeria,Benue,2011,8.022,0.498,74.6,66.7,3.57
+Nigeria,Borno,2011,8.141,0.381,36.1,50.4,1.576
+Nigeria,Cross River,2011,8.263,0.55,50.5,45.9,5.649
+Nigeria,Delta,2011,8.737,0.587,27.3,23.6,6.691
+Nigeria,Ebonyi,2011,8.143,0.494,43.2,44.9,3.814
+Nigeria,Edo,2011,8.913,0.607,23.3,28.1,7.006
+Nigeria,Ekiti,2011,8.75,0.595,9.29,26.5,7.233
+Nigeria,Enugu,2011,8.483,0.539,28.4,27.3,5.061
+Nigeria,Gombe,2011,8.109,0.409,15.7,58.1,2.266
+Nigeria,Imo,2011,8.802,0.563,15.9,10.7,6.842
+Nigeria,Jigawa,2011,7.906,0.336,2.46,49.3,0.868
+Nigeria,Kaduna,2011,8.582,0.523,14.6,46.8,4.455
+Nigeria,Kano,2011,8.324,0.433,0.72,25.5,1.774
+Nigeria,Katsina,2011,8.092,0.347,5.99,51.5,0.818
+Nigeria,Kebbi,2011,7.996,0.353,16,63,0.945
+Nigeria,Kogi,2011,8.521,0.572,21,39.1,4.686
+Nigeria,Kwara,2011,8.727,0.583,17.5,34,5.116
+Nigeria,Lagos,2011,9.3,0.634,1.17,3.51,9.024
+Nigeria,Nasarawa,2011,8.395,0.513,58.1,53.8,3.419
+Nigeria,Niger,2011,8.388,0.459,11.3,58.1,1.93
+Nigeria,Ogun,2011,8.48,0.547,18.9,27.4,5.109
+Nigeria,Ondo,2011,8.592,0.574,22.5,41.7,6.549
+Nigeria,Osun,2011,8.712,0.619,5.11,25.1,6.546
+Nigeria,Oyo,2011,8.64,0.565,13.2,29.2,5.7
+Nigeria,Plateau,2011,8.189,0.512,45.7,50.3,4.293
+Nigeria,Rivers,2011,8.752,0.588,25.9,25,8.081
+Nigeria,Sokoto,2011,7.979,0.333,0.4,34.7,0.635
+Nigeria,Taraba,2011,7.937,0.446,43.9,57.9,2.767
+Nigeria,Yobe,2011,7.855,0.31,17.1,57.3,0.894
+Nigeria,Zamfora,2011,7.862,0.333,2.06,42.5,0.725
+Sierra Leone,Bo,2011,7.241,0.433,47.3,43.5,2.384
+Sierra Leone,Bombali,2011,7.183,0.457,58.5,56.2,1.913
+Sierra Leone,Bonthe,2011,7.023,0.4,52.4,70.1,1.824
+Sierra Leone,Kailahun,2011,6.974,0.406,72,69.9,1.554
+Sierra Leone,Kambia,2011,7.136,0.388,62.7,77,0.725
+Sierra Leone,Kenema,2011,7.211,0.413,55.4,52,2.025
+Sierra Leone,Koinadugu,2011,6.953,0.341,79.5,75.9,0.556
+Sierra Leone,Kono,2011,7.061,0.406,53.2,46.3,1.36
+Sierra Leone,Moyamba,2011,6.953,0.38,77.9,77.5,1.519
+Sierra Leone,Port Loko,2011,7.109,0.404,48.3,63.9,1.519
+Sierra Leone,Pujehun,2011,7.072,0.357,61.1,61.2,1.17
+Sierra Leone,Tonkolili,2011,7.046,0.383,63,63,1.166
+Sierra Leone,Western Rural,2011,7.628,0.484,8.14,22.5,4.647
+Sierra Leone,Western Urban,2011,8.162,0.587,2.07,7.09,8.509
+Uganda,Central 1 (Central South),2011,7.704,0.519,52.4,63.6,5.691
+Uganda,Central 2 (Central North),2011,7.624,0.527,62.3,62.7,5.432
+Uganda,East Central (Busoga),2011,7.507,0.505,70.1,63.8,4.665
+Uganda,"Eastern (Bukedi, Bugishu, Teso)",2011,7.365,0.503,81.9,70.2,3.995
+Uganda,Kampala,2011,8.478,0.637,26.4,32.4,10.04
+Uganda,"North (Karamoja, Lango, Acholi)",2011,7.263,0.453,63,71.9,2.786
+Uganda,"Southwest (Ankole, Kigezi)",2011,7.514,0.482,85.2,68.1,3.574
+Uganda,West Nile,2011,7.312,0.464,44,65.1,3.034
+Uganda,"Western (Bunyoro, Tooro)",2011,7.55,0.494,79.9,70.7,4.265
+Uganda,Central,2011,7.935333333,0.561,47.03333333,52.9,7.054333333
+Uganda,Northern,2011,7.2875,0.4585,53.5,68.5,2.91
+Uganda,Eastern,2011,7.436,0.504,76,67,4.33
+Uganda,Western,2011,7.532,0.488,82.55,69.4,3.9195
+Nigeria,Abia,2012,8.802,0.573,26.5,20.2,7.394
+Nigeria,Abuja FCT,2012,9.259,0.649,13.3,22.7,9.272
+Nigeria,Adamawa,2012,8.288,0.48,33.1,42.1,3.635
+Nigeria,Akwa Ibom,2012,8.715,0.591,16.1,20.8,6.983
+Nigeria,Anambra,2012,9.123,0.622,15.1,18.3,8.28
+Nigeria,Bauchi,2012,7.889,0.363,3.54,55.1,1.613
+Nigeria,Bayelsa,2012,8.577,0.584,33.7,32.5,6.778
+Nigeria,Benue,2012,8.053,0.509,71.6,65.8,3.865
+Nigeria,Borno,2012,8.209,0.408,27.9,49.1,1.844
+Nigeria,Cross River,2012,8.325,0.557,47.2,45.2,5.883
+Nigeria,Delta,2012,8.754,0.599,25.6,24,7.154
+Nigeria,Ebonyi,2012,8.157,0.501,40.7,44,4.142
+Nigeria,Edo,2012,8.924,0.618,22,27.4,7.39
+Nigeria,Ekiti,2012,8.841,0.606,7.84,23,7.808
+Nigeria,Enugu,2012,8.532,0.55,27.9,26.5,5.5
+Nigeria,Gombe,2012,8.174,0.412,11.6,57.2,2.356
+Nigeria,Imo,2012,8.815,0.573,14.9,10.3,7.324
+Nigeria,Jigawa,2012,7.955,0.344,2.49,46.6,0.905
+Nigeria,Kaduna,2012,8.604,0.537,9.91,42.8,4.881
+Nigeria,Kano,2012,8.345,0.443,0.78,25.2,1.83
+Nigeria,Katsina,2012,8.117,0.354,4.44,48.1,0.961
+Nigeria,Kebbi,2012,8.001,0.355,12.1,61,0.96
+Nigeria,Kogi,2012,8.542,0.581,20.1,37.5,5.03
+Nigeria,Kwara,2012,8.845,0.606,11.3,27.4,5.616
+Nigeria,Lagos,2012,9.279,0.638,1.04,3.19,9.429
+Nigeria,Nasarawa,2012,8.442,0.521,54.9,52.4,3.656
+Nigeria,Niger,2012,8.399,0.476,9.89,56.4,2.008
+Nigeria,Ogun,2012,8.512,0.558,16,24.8,5.477
+Nigeria,Ondo,2012,8.651,0.58,21.2,41.6,7.177
+Nigeria,Osun,2012,8.778,0.629,5.72,24.2,7.146
+Nigeria,Oyo,2012,8.675,0.574,12.5,29.5,6.175
+Nigeria,Plateau,2012,8.259,0.518,41.2,47.6,4.627
+Nigeria,Rivers,2012,8.781,0.602,25.6,25.6,8.717
+Nigeria,Sokoto,2012,8.018,0.339,0.36,31.2,0.673
+Nigeria,Taraba,2012,7.962,0.454,40.2,54.6,2.989
+Nigeria,Yobe,2012,7.883,0.304,14.9,56.4,0.958
+Nigeria,Zamfora,2012,7.882,0.339,1.86,40,0.749
+Sierra Leone,Bo,2012,7.412,0.45,44.1,41.9,2.537
+Sierra Leone,Bombali,2012,7.359,0.474,61.4,59.7,2.059
+Sierra Leone,Bonthe,2012,7.176,0.419,52.9,71.8,1.933
+Sierra Leone,Kailahun,2012,7.126,0.418,70,68.6,1.692
+Sierra Leone,Kambia,2012,7.294,0.4,62,77,0.8
+Sierra Leone,Kenema,2012,7.383,0.423,52.4,50.3,2.203
+Sierra Leone,Koinadugu,2012,7.096,0.358,77.6,74.2,0.594
+Sierra Leone,Kono,2012,7.225,0.417,50.5,45.1,1.378
+Sierra Leone,Moyamba,2012,7.114,0.391,76.9,76.6,1.49
+Sierra Leone,Port Loko,2012,7.272,0.415,45.7,62.4,1.603
+Sierra Leone,Pujehun,2012,7.252,0.376,57.7,54.4,1.265
+Sierra Leone,Tonkolili,2012,7.234,0.403,58.8,58.6,1.336
+Sierra Leone,Western Rural,2012,7.791,0.504,7.98,20.9,4.885
+Sierra Leone,Western Urban,2012,8.358,0.6,2.58,7.68,8.562
+Uganda,Central 1 (Central South),2012,7.768,0.525,47.2,55.4,5.218
+Uganda,Central 2 (Central North),2012,7.64,0.523,60.3,57.6,4.768
+Uganda,East Central (Busoga),2012,7.517,0.503,66.1,57.8,4.073
+Uganda,"Eastern (Bukedi, Bugishu, Teso)",2012,7.371,0.502,78,64.4,3.561
+Uganda,Kampala,2012,8.485,0.627,21.6,26.4,8.557
+Uganda,"North (Karamoja, Lango, Acholi)",2012,7.258,0.452,61.6,66.7,2.486
+Uganda,"Southwest (Ankole, Kigezi)",2012,7.508,0.484,78.9,61.1,3.264
+Uganda,West Nile,2012,7.3,0.463,46.8,61,2.723
+Uganda,"Western (Bunyoro, Tooro)",2012,7.533,0.489,73.4,64.5,3.688
+Uganda,Central,2012,7.964333333,0.558333333,43.03333333,46.46666667,6.181
+Uganda,Northern,2012,7.279,0.4575,54.2,63.85,2.6045
+Uganda,Eastern,2012,7.444,0.5025,72.05,61.1,3.817
+Uganda,Western,2012,7.5205,0.4865,76.15,62.8,3.476
+Nigeria,Abia,2013,8.796,0.581,27.6,22.6,7.747
+Nigeria,Abuja FCT,2013,9.297,0.664,12.4,22.9,9.862
+Nigeria,Adamawa,2013,8.395,0.498,30,39.1,4.049
+Nigeria,Akwa Ibom,2013,8.774,0.607,18.1,22.3,7.276
+Nigeria,Anambra,2013,9.193,0.641,15.1,19.4,8.9
+Nigeria,Bauchi,2013,7.939,0.375,3.42,55.8,1.794
+Nigeria,Bayelsa,2013,8.682,0.607,31.2,34.2,7.336
+Nigeria,Benue,2013,8.104,0.522,68.5,64.8,4.169
+Nigeria,Borno,2013,8.297,0.436,19.7,47.8,2.125
+Nigeria,Cross River,2013,8.409,0.564,43.9,44.4,6.114
+Nigeria,Delta,2013,8.792,0.612,23.8,24.5,7.627
+Nigeria,Ebonyi,2013,8.192,0.508,38.1,43.2,4.48
+Nigeria,Edo,2013,8.958,0.63,20.7,26.8,7.777
+Nigeria,Ekiti,2013,8.954,0.619,6.39,19.5,8.399
+Nigeria,Enugu,2013,8.601,0.562,27.4,25.6,5.953
+Nigeria,Gombe,2013,8.259,0.416,7.48,56.3,2.445
+Nigeria,Imo,2013,8.85,0.585,13.9,9.95,7.817
+Nigeria,Jigawa,2013,8.024,0.352,2.52,43.9,0.942
+Nigeria,Kaduna,2013,8.646,0.552,5.24,38.8,5.322
+Nigeria,Kano,2013,8.388,0.455,0.84,24.8,1.884
+Nigeria,Katsina,2013,8.163,0.362,2.9,44.6,1.112
+Nigeria,Kebbi,2013,8.026,0.359,8.14,58.9,0.972
+Nigeria,Kogi,2013,8.584,0.592,19.2,35.9,5.382
+Nigeria,Kwara,2013,8.985,0.631,5.04,20.8,6.134
+Nigeria,Lagos,2013,9.282,0.643,0.91,2.86,9.832
+Nigeria,Nasarawa,2013,8.51,0.531,51.6,51,3.899
+Nigeria,Niger,2013,8.432,0.494,8.43,54.6,2.085
+Nigeria,Ogun,2013,8.565,0.571,13.1,22.3,5.853
+Nigeria,Ondo,2013,8.732,0.587,20,41.4,7.827
+Nigeria,Osun,2013,8.866,0.641,6.32,23.3,7.767
+Nigeria,Oyo,2013,8.732,0.584,11.8,29.8,6.665
+Nigeria,Plateau,2013,8.349,0.526,36.7,45,4.971
+Nigeria,Rivers,2013,8.833,0.618,25.3,26.3,9.371
+Nigeria,Sokoto,2013,8.077,0.346,0.32,27.7,0.712
+Nigeria,Taraba,2013,8.008,0.462,36.4,51.2,3.217
+Nigeria,Yobe,2013,7.931,0.296,12.7,55.4,1.022
+Nigeria,Zamfora,2013,7.921,0.346,1.67,37.4,0.772
+Sierra Leone,Bo,2013,7.546,0.464,41,40.4,2.692
+Sierra Leone,Bombali,2013,7.499,0.489,64.2,63.2,2.205
+Sierra Leone,Bonthe,2013,7.294,0.437,53.5,73.4,2.043
+Sierra Leone,Kailahun,2013,7.243,0.427,68,67.3,1.832
+Sierra Leone,Kambia,2013,7.416,0.411,61.3,77.1,0.876
+Sierra Leone,Kenema,2013,7.518,0.432,49.5,48.7,2.383
+Sierra Leone,Koinadugu,2013,7.203,0.372,75.7,72.5,0.632
+Sierra Leone,Kono,2013,7.353,0.427,47.9,43.9,1.394
+Sierra Leone,Moyamba,2013,7.238,0.401,75.8,75.8,1.459
+Sierra Leone,Port Loko,2013,7.399,0.424,43.1,60.9,1.686
+Sierra Leone,Pujehun,2013,7.396,0.392,54.4,47.6,1.362
+Sierra Leone,Tonkolili,2013,7.386,0.422,54.6,54.3,1.508
+Sierra Leone,Western Rural,2013,7.914,0.522,7.82,19.4,5.124
+Sierra Leone,Western Urban,2013,8.513,0.61,3.09,8.27,8.61
+Uganda,Central 1 (Central South),2013,7.834,0.539,41.9,47.1,5.62
+Uganda,Central 2 (Central North),2013,7.659,0.525,58.4,52.6,4.939
+Uganda,East Central (Busoga),2013,7.529,0.508,62.1,51.8,4.197
+Uganda,"Eastern (Bukedi, Bugishu, Teso)",2013,7.379,0.507,74.2,58.6,3.741
+Uganda,Kampala,2013,8.494,0.628,16.7,20.4,8.612
+Uganda,"North (Karamoja, Lango, Acholi)",2013,7.255,0.457,60.3,61.6,2.614
+Uganda,"Southwest (Ankole, Kigezi)",2013,7.503,0.491,72.6,54,3.503
+Uganda,West Nile,2013,7.291,0.467,49.6,56.9,2.877
+Uganda,"Western (Bunyoro, Tooro)",2013,7.519,0.49,67,58.3,3.765
+Uganda,Central,2013,7.995666667,0.564,39,40.03333333,6.390333333
+Uganda,Northern,2013,7.273,0.462,54.95,59.25,2.7455
+Uganda,Eastern,2013,7.454,0.5075,68.15,55.2,3.969
+Uganda,Western,2013,7.511,0.4905,69.8,56.15,3.634
+Nigeria,Abia,2014,8.903,0.594,22.1,21.2,7.917
+Nigeria,Abuja FCT,2014,9.309,0.66,9.89,25.3,9.377
+Nigeria,Adamawa,2014,8.422,0.497,24,45.4,4.083
+Nigeria,Akwa Ibom,2014,8.827,0.607,14.5,20.1,7.329
+Nigeria,Anambra,2014,9.22,0.646,12,19.1,8.738
+Nigeria,Bauchi,2014,8.007,0.386,2.73,55.7,1.843
+Nigeria,Bayelsa,2014,8.691,0.617,24.9,36.7,7.424
+Nigeria,Benue,2014,8.218,0.539,54.8,64.4,4.462
+Nigeria,Borno,2014,8.367,0.453,15.7,49.3,2.451
+Nigeria,Cross River,2014,8.465,0.575,35.1,44.7,6.392
+Nigeria,Delta,2014,8.862,0.622,19.1,26.9,7.737
+Nigeria,Ebonyi,2014,8.249,0.521,30.5,42.9,4.639
+Nigeria,Edo,2014,8.977,0.63,16.6,27.1,7.615
+Nigeria,Ekiti,2014,8.924,0.618,5.11,22.4,8.276
+Nigeria,Enugu,2014,8.672,0.578,21.9,25.2,6.163
+Nigeria,Gombe,2014,8.29,0.415,5.99,56,2.449
+Nigeria,Imo,2014,8.938,0.598,11.1,10.1,8.002
+Nigeria,Jigawa,2014,8.054,0.365,2.02,43.6,1.127
+Nigeria,Kaduna,2014,8.682,0.545,4.19,39.4,5.141
+Nigeria,Kano,2014,8.425,0.461,0.68,26.1,2.159
+Nigeria,Katsina,2014,8.218,0.382,2.32,43.1,1.344
+Nigeria,Kebbi,2014,8.073,0.355,6.51,60.7,0.953
+Nigeria,Kogi,2014,8.613,0.586,15.4,37.3,5.442
+Nigeria,Kwara,2014,8.959,0.619,4.03,25.2,5.881
+Nigeria,Lagos,2014,9.303,0.651,0.73,2.71,9.908
+Nigeria,Nasarawa,2014,8.596,0.541,41.3,49.3,4.195
+Nigeria,Niger,2014,8.486,0.493,6.74,56.2,2.214
+Nigeria,Ogun,2014,8.685,0.592,10.4,22.5,6.257
+Nigeria,Ondo,2014,8.754,0.592,16,41.8,7.716
+Nigeria,Osun,2014,8.848,0.636,5.06,24.8,7.684
+Nigeria,Oyo,2014,8.783,0.594,9.41,26.8,6.816
+Nigeria,Plateau,2014,8.403,0.534,29.4,46.5,5.113
+Nigeria,Rivers,2014,8.908,0.624,20.3,24,9.415
+Nigeria,Sokoto,2014,8.098,0.344,0.26,32.8,0.712
+Nigeria,Taraba,2014,8.07,0.471,29.1,50.9,3.386
+Nigeria,Yobe,2014,7.951,0.312,10.2,56,1.042
+Nigeria,Zamfora,2014,7.991,0.36,1.34,39.4,0.941
+Sierra Leone,Bo,2014,7.541,0.477,44,42.5,2.84
+Sierra Leone,Bombali,2014,7.509,0.481,63.3,62.8,2.271
+Sierra Leone,Bonthe,2014,7.283,0.433,56.7,73.5,2.056
+Sierra Leone,Kailahun,2014,7.241,0.426,69.7,68.4,1.877
+Sierra Leone,Kambia,2014,7.382,0.418,60.5,75.3,0.944
+Sierra Leone,Kenema,2014,7.525,0.439,52.9,50.7,2.464
+Sierra Leone,Koinadugu,2014,7.207,0.379,75.5,72.5,0.717
+Sierra Leone,Kono,2014,7.348,0.429,50.6,45.4,1.52
+Sierra Leone,Moyamba,2014,7.221,0.404,76.2,76.1,1.457
+Sierra Leone,Port Loko,2014,7.409,0.429,45.1,60.7,1.885
+Sierra Leone,Pujehun,2014,7.346,0.393,58.8,52,1.494
+Sierra Leone,Tonkolili,2014,7.31,0.417,56.4,56.7,1.39
+Sierra Leone,Western Rural,2014,7.895,0.513,7.91,19.2,5.018
+Sierra Leone,Western Urban,2014,8.511,0.599,2.71,7.37,8.23
+Uganda,Central 1 (Central South),2014,7.912,0.551,36.7,38.9,6.024
+Uganda,Central 2 (Central North),2014,7.69,0.527,56.4,47.5,5.11
+Uganda,East Central (Busoga),2014,7.554,0.512,58.1,45.8,4.321
+Uganda,"Eastern (Bukedi, Bugishu, Teso)",2014,7.399,0.511,70.3,52.8,3.921
+Uganda,Kampala,2014,8.517,0.628,11.8,14.4,8.665
+Uganda,"North (Karamoja, Lango, Acholi)",2014,7.264,0.461,59,56.4,2.742
+Uganda,"Southwest (Ankole, Kigezi)",2014,7.511,0.498,66.3,47,3.743
+Uganda,West Nile,2014,7.293,0.471,52.4,52.8,3.032
+Uganda,"Western (Bunyoro, Tooro)",2014,7.517,0.49,60.5,52.1,3.841
+Uganda,Central,2014,8.039666667,0.568666667,34.96666667,33.6,6.599666667
+Uganda,Northern,2014,7.2785,0.466,55.7,54.6,2.887
+Uganda,Eastern,2014,7.4765,0.5115,64.2,49.3,4.121
+Uganda,Western,2014,7.514,0.494,63.4,49.55,3.792
+Nigeria,Abia,2015,8.964,0.604,16.5,19.8,8.088
+Nigeria,Abuja FCT,2015,9.274,0.654,7.42,27.8,8.915
+Nigeria,Adamawa,2015,8.407,0.494,18,51.6,4.119
+Nigeria,Akwa Ibom,2015,8.836,0.605,10.9,18,7.386
+Nigeria,Anambra,2015,9.202,0.648,9.03,18.9,8.588
+Nigeria,Bauchi,2015,8.034,0.395,2.05,55.7,1.892
+Nigeria,Bayelsa,2015,8.656,0.623,18.7,39.2,7.514
+Nigeria,Benue,2015,8.291,0.554,41.1,64.1,4.749
+Nigeria,Borno,2015,8.395,0.467,11.8,50.8,2.769
+Nigeria,Cross River,2015,8.479,0.582,26.3,45,6.667
+Nigeria,Delta,2015,8.887,0.63,14.3,29.4,7.851
+Nigeria,Ebonyi,2015,8.265,0.532,22.9,42.5,4.798
+Nigeria,Edo,2015,8.95,0.627,12.4,27.4,7.464
+Nigeria,Ekiti,2015,8.848,0.615,3.83,25.2,8.164
+Nigeria,Enugu,2015,8.699,0.591,16.4,24.8,6.371
+Nigeria,Gombe,2015,8.279,0.412,4.49,55.7,2.454
+Nigeria,Imo,2015,8.981,0.608,8.34,10.2,8.187
+Nigeria,Jigawa,2015,8.043,0.376,1.51,43.4,1.307
+Nigeria,Kaduna,2015,8.673,0.535,3.15,40.1,4.969
+Nigeria,Kano,2015,8.419,0.465,0.51,27.5,2.427
+Nigeria,Katsina,2015,8.233,0.399,1.74,41.5,1.569
+Nigeria,Kebbi,2015,8.08,0.349,4.88,62.5,0.935
+Nigeria,Kogi,2015,8.599,0.577,11.5,38.7,5.506
+Nigeria,Kwara,2015,8.888,0.606,3.02,29.6,5.64
+Nigeria,Lagos,2015,9.276,0.656,0.55,2.55,9.99
+Nigeria,Nasarawa,2015,8.639,0.548,31,47.7,4.487
+Nigeria,Niger,2015,8.497,0.49,5.06,57.8,2.341
+Nigeria,Ogun,2015,8.763,0.609,7.83,22.7,6.655
+Nigeria,Ondo,2015,8.733,0.595,12,42.3,7.614
+Nigeria,Osun,2015,8.785,0.628,3.79,26.4,7.61
+Nigeria,Oyo,2015,8.79,0.601,7.06,23.8,6.968
+Nigeria,Plateau,2015,8.415,0.54,22,48.1,5.255
+Nigeria,Rivers,2015,8.939,0.627,15.2,21.7,9.465
+Nigeria,Sokoto,2015,8.08,0.342,0.19,38,0.714
+Nigeria,Taraba,2015,8.091,0.477,21.9,50.5,3.553
+Nigeria,Yobe,2015,7.931,0.326,7.64,56.6,1.062
+Nigeria,Zamfora,2015,8.02,0.373,1,41.3,1.107
+Sierra Leone,Bo,2015,7.285,0.477,46.9,44.7,2.981
+Sierra Leone,Bombali,2015,7.268,0.462,62.4,62.5,2.339
+Sierra Leone,Bonthe,2015,7.031,0.419,60,73.5,2.077
+Sierra Leone,Kailahun,2015,6.998,0.414,71.5,69.5,1.925
+Sierra Leone,Kambia,2015,7.103,0.414,59.7,73.6,1.007
+Sierra Leone,Kenema,2015,7.281,0.435,56.3,52.7,2.546
+Sierra Leone,Koinadugu,2015,6.971,0.374,75.2,72.6,0.794
+Sierra Leone,Kono,2015,7.099,0.42,53.2,47,1.635
+Sierra Leone,Moyamba,2015,6.964,0.396,76.6,76.4,1.463
+Sierra Leone,Port Loko,2015,7.172,0.424,47,60.4,2.063
+Sierra Leone,Pujehun,2015,7.054,0.384,63.1,56.4,1.615
+Sierra Leone,Tonkolili,2015,6.993,0.402,58.2,59,1.297
+Sierra Leone,Western Rural,2015,7.614,0.495,8.01,19,4.954
+Sierra Leone,Western Urban,2015,8.225,0.579,2.33,6.46,7.949
+Uganda,Central 1 (Central South),2015,7.997,0.564,31.4,30.7,6.429
+Uganda,Central 2 (Central North),2015,7.726,0.53,54.5,42.5,5.281
+Uganda,East Central (Busoga),2015,7.583,0.517,54.1,39.9,4.445
+Uganda,"Eastern (Bukedi, Bugishu, Teso)",2015,7.425,0.515,66.5,47.1,4.101
+Uganda,Kampala,2015,8.547,0.628,6.92,8.35,8.716
+Uganda,"North (Karamoja, Lango, Acholi)",2015,7.278,0.465,57.6,51.2,2.871
+Uganda,"Southwest (Ankole, Kigezi)",2015,7.525,0.504,60,39.9,3.984
+Uganda,West Nile,2015,7.301,0.475,55.2,48.7,3.188
+Uganda,"Western (Bunyoro, Tooro)",2015,7.52,0.491,54.1,45.8,3.917
+Uganda,Central,2015,8.09,0.574,30.94,27.18333333,6.808666667
+Uganda,Northern,2015,7.2895,0.47,56.4,49.95,3.0295
+Uganda,Eastern,2015,7.504,0.516,60.3,43.5,4.273
+Uganda,Western,2015,7.5225,0.4975,57.05,42.85,3.9505
+Nigeria,Abia,2016,8.978,0.615,11,18.4,8.464
+Nigeria,Abuja FCT,2016,9.19,0.649,4.94,30.2,8.68
+Nigeria,Adamawa,2016,8.347,0.49,12,57.9,4.26
+Nigeria,Akwa Ibom,2016,8.797,0.604,7.25,15.8,7.631
+Nigeria,Anambra,2016,9.134,0.65,6.02,18.6,8.657
+Nigeria,Bauchi,2016,8.019,0.403,1.37,55.6,1.989
+Nigeria,Bayelsa,2016,8.575,0.631,12.5,41.7,7.796
+Nigeria,Benue,2016,8.319,0.568,27.4,63.7,5.156
+Nigeria,Borno,2016,8.378,0.481,7.87,52.4,3.157
+Nigeria,Cross River,2016,8.448,0.591,17.5,45.3,7.11
+Nigeria,Delta,2016,8.865,0.638,9.54,31.8,8.164
+Nigeria,Ebonyi,2016,8.237,0.543,15.2,42.2,5.077
+Nigeria,Edo,2016,8.876,0.625,8.28,27.7,7.503
+Nigeria,Ekiti,2016,8.725,0.613,2.55,28,8.26
+Nigeria,Enugu,2016,8.68,0.605,10.9,24.3,6.74
+Nigeria,Gombe,2016,8.224,0.409,2.99,55.4,2.522
+Nigeria,Imo,2016,8.976,0.619,5.56,10.3,8.58
+Nigeria,Jigawa,2016,7.99,0.386,1.01,43.1,1.519
+Nigeria,Kaduna,2016,8.619,0.526,2.1,40.7,4.924
+Nigeria,Kano,2016,8.369,0.469,0.34,28.8,2.756
+Nigeria,Katsina,2016,8.203,0.415,1.16,39.9,1.834
+Nigeria,Kebbi,2016,8.044,0.343,3.26,64.3,0.942
+Nigeria,Kogi,2016,8.539,0.569,7.69,40.2,5.708
+Nigeria,Kwara,2016,8.771,0.592,2.02,33.9,5.543
+Nigeria,Lagos,2016,9.201,0.662,0.36,2.4,10.33
+Nigeria,Nasarawa,2016,8.636,0.555,20.6,46.1,4.891
+Nigeria,Niger,2016,8.464,0.486,3.37,59.4,2.528
+Nigeria,Ogun,2016,8.793,0.628,5.22,22.9,7.22
+Nigeria,Ondo,2016,8.665,0.598,7.99,42.7,7.706
+Nigeria,Osun,2016,8.676,0.622,2.53,28,7.729
+Nigeria,Oyo,2016,8.75,0.609,4.71,20.8,7.297
+Nigeria,Plateau,2016,8.381,0.546,14.7,49.6,5.529
+Nigeria,Rivers,2016,8.922,0.632,10.1,19.5,9.756
+Nigeria,Sokoto,2016,8.018,0.339,0.13,43.2,0.733
+Nigeria,Taraba,2016,8.069,0.483,14.6,50.2,3.81
+Nigeria,Yobe,2016,7.869,0.338,5.1,57.2,1.109
+Nigeria,Zamfora,2016,8.007,0.386,0.67,43.2,1.299
+Sierra Leone,Bo,2016,7.209,0.489,49.9,46.9,3.142
+Sierra Leone,Bombali,2016,7.207,0.455,61.4,62.1,2.428
+Sierra Leone,Bonthe,2016,6.953,0.416,63.2,73.5,2.122
+Sierra Leone,Kailahun,2016,6.928,0.413,73.2,70.6,1.992
+Sierra Leone,Kambia,2016,7.001,0.419,58.9,71.8,1.076
+Sierra Leone,Kenema,2016,7.217,0.442,59.8,54.7,2.65
+Sierra Leone,Koinadugu,2016,6.907,0.38,75,72.6,0.87
+Sierra Leone,Kono,2016,7.026,0.422,55.9,48.5,1.757
+Sierra Leone,Moyamba,2016,6.881,0.398,77.1,76.6,1.486
+Sierra Leone,Port Loko,2016,7.112,0.429,49,60.2,2.246
+Sierra Leone,Pujehun,2016,6.939,0.385,67.5,60.7,1.741
+Sierra Leone,Tonkolili,2016,6.853,0.398,60,61.4,1.232
+Sierra Leone,Western Rural,2016,7.522,0.489,8.11,18.9,4.961
+Sierra Leone,Western Urban,2016,8.143,0.574,1.95,5.55,7.803
+Uganda,Central 1 (Central South),2016,8.073,0.575,26.2,22.4,6.742
+Uganda,Central 2 (Central North),2016,7.755,0.531,52.5,37.4,5.377
+Uganda,East Central (Busoga),2016,7.605,0.52,50.1,33.9,4.507
+Uganda,"Eastern (Bukedi, Bugishu, Teso)",2016,7.442,0.518,62.6,41.3,4.223
+Uganda,Kampala,2016,8.567,0.626,2.03,2.33,8.648
+Uganda,"North (Karamoja, Lango, Acholi)",2016,7.285,0.467,56.3,46.1,2.959
+Uganda,"Southwest (Ankole, Kigezi)",2016,7.53,0.51,53.7,32.8,4.168
+Uganda,West Nile,2016,7.3,0.477,58,44.6,3.298
+Uganda,"Western (Bunyoro, Tooro)",2016,7.514,0.49,47.6,39.6,3.939
+Uganda,Central,2016,8.131666667,0.577333333,26.91,20.71,6.922333333
+Uganda,Northern,2016,7.2925,0.472,57.15,45.35,3.1285
+Uganda,Eastern,2016,7.5235,0.519,56.35,37.6,4.365
+Uganda,Western,2016,7.522,0.5,50.65,36.2,4.0535
+Nigeria,Abia,2017,9.004,0.627,5.51,16.9,8.84
+Nigeria,Abuja FCT,2017,9.119,0.645,2.47,32.6,8.433
+Nigeria,Adamawa,2017,8.298,0.486,6.01,64.2,4.399
+Nigeria,Akwa Ibom,2017,8.771,0.604,3.62,13.6,7.873
+Nigeria,Anambra,2017,9.08,0.654,3.01,18.4,8.719
+Nigeria,Bauchi,2017,8.015,0.413,0.68,55.5,2.086
+Nigeria,Bayelsa,2017,8.506,0.639,6.23,44.2,8.075
+Nigeria,Benue,2017,8.358,0.584,13.7,63.3,5.566
+Nigeria,Borno,2017,8.373,0.495,3.93,53.9,3.549
+Nigeria,Cross River,2017,8.429,0.6,8.77,45.5,7.555
+Nigeria,Delta,2017,8.854,0.648,4.77,34.2,8.474
+Nigeria,Ebonyi,2017,8.22,0.554,7.62,41.8,5.358
+Nigeria,Edo,2017,8.814,0.624,4.14,28.1,7.535
+Nigeria,Ekiti,2017,8.616,0.611,1.28,30.8,8.349
+Nigeria,Enugu,2017,8.673,0.62,5.47,23.9,7.111
+Nigeria,Gombe,2017,8.181,0.407,1.5,55.2,2.589
+Nigeria,Imo,2017,8.983,0.631,2.78,10.4,8.973
+Nigeria,Jigawa,2017,7.948,0.397,0.5,42.9,1.735
+Nigeria,Kaduna,2017,8.577,0.517,1.05,41.4,4.873
+Nigeria,Kano,2017,8.331,0.474,0.17,30.2,3.089
+Nigeria,Katsina,2017,8.185,0.432,0.58,38.4,2.102
+Nigeria,Kebbi,2017,8.019,0.338,1.63,66.1,0.947
+Nigeria,Kogi,2017,8.492,0.561,3.84,41.6,5.91
+Nigeria,Kwara,2017,8.666,0.58,1.01,38.3,5.439
+Nigeria,Lagos,2017,9.139,0.669,0.18,2.24,10.66
+Nigeria,Nasarawa,2017,8.644,0.563,10.3,44.5,5.298
+Nigeria,Niger,2017,8.442,0.484,1.69,61,2.716
+Nigeria,Ogun,2017,8.835,0.647,2.61,23.2,7.789
+Nigeria,Ondo,2017,8.61,0.602,3.99,43.2,7.791
+Nigeria,Osun,2017,8.58,0.616,1.26,29.5,7.843
+Nigeria,Oyo,2017,8.723,0.618,2.35,17.8,7.625
+Nigeria,Plateau,2017,8.36,0.553,7.34,51.2,5.804
+Nigeria,Rivers,2017,8.918,0.638,5.07,17.2,10.04
+Nigeria,Sokoto,2017,7.968,0.336,0.06,48.4,0.752
+Nigeria,Taraba,2017,8.059,0.49,7.29,49.8,4.067
+Nigeria,Yobe,2017,7.818,0.35,2.55,57.8,1.155
+Nigeria,Zamfora,2017,8.005,0.4,0.33,45.2,1.495
+Sierra Leone,Bo,2017,7.305,0.506,52.9,49.1,3.3
+Sierra Leone,Bombali,2017,7.317,0.455,60.5,61.7,2.518
+Sierra Leone,Bonthe,2017,7.04,0.42,66.5,73.5,2.171
+Sierra Leone,Kailahun,2017,7.023,0.418,75,71.7,2.059
+Sierra Leone,Kambia,2017,7.066,0.431,58.2,70.1,1.141
+Sierra Leone,Kenema,2017,7.325,0.454,63.2,56.7,2.754
+Sierra Leone,Koinadugu,2017,7.008,0.391,74.7,72.7,0.943
+Sierra Leone,Kono,2017,7.119,0.43,58.5,50.1,1.873
+Sierra Leone,Moyamba,2017,6.96,0.407,77.5,76.9,1.514
+Sierra Leone,Port Loko,2017,7.221,0.44,50.9,60,2.419
+Sierra Leone,Pujehun,2017,6.988,0.391,71.9,65.1,1.861
+Sierra Leone,Tonkolili,2017,6.876,0.4,61.8,63.8,1.179
+Sierra Leone,Western Rural,2017,7.609,0.489,8.21,18.7,4.987
+Sierra Leone,Western Urban,2017,8.254,0.574,1.57,4.65,7.704
+Uganda,Central 1 (Central South),2017,8.06,0.576,20.9,14.9,6.874
+Uganda,Central 2 (Central North),2017,7.742,0.531,50.6,32.4,5.482
+Uganda,East Central (Busoga),2017,7.592,0.52,46,27.9,4.595
+Uganda,"Eastern (Bukedi, Bugishu, Teso)",2017,7.429,0.519,58.7,35.5,4.306
+Uganda,Kampala,2017,8.552,0.628,1.36,1.56,8.817
+Uganda,"North (Karamoja, Lango, Acholi)",2017,7.273,0.468,54.9,40.9,3.017
+Uganda,"Southwest (Ankole, Kigezi)",2017,7.517,0.51,47.4,25.8,4.25
+Uganda,West Nile,2017,7.288,0.478,60.8,40.5,3.362
+Uganda,"Western (Bunyoro, Tooro)",2017,7.502,0.491,41.2,33.4,4.016
+Uganda,Central,2017,8.118,0.578333333,24.28666667,16.28666667,7.057666667
+Uganda,Northern,2017,7.2805,0.473,57.85,40.7,3.1895
+Uganda,Eastern,2017,7.5105,0.5195,52.35,31.7,4.4505
+Uganda,Western,2017,7.5095,0.5005,44.3,29.6,4.133
+Nigeria,Abia,2018,9.035,0.64,0,15.5,9.214
+Nigeria,Abuja FCT,2018,9.054,0.641,0,35,8.173
+Nigeria,Adamawa,2018,8.255,0.481,0,70.4,4.537
+Nigeria,Akwa Ibom,2018,8.75,0.603,0,11.4,8.113
+Nigeria,Anambra,2018,9.031,0.658,0,18.1,8.774
+Nigeria,Bauchi,2018,8.015,0.422,0,55.5,2.183
+Nigeria,Bayelsa,2018,8.443,0.646,0,46.7,8.353
+Nigeria,Benue,2018,8.402,0.6,0,62.9,5.979
+Nigeria,Borno,2018,8.372,0.509,0,55.4,3.946
+Nigeria,Cross River,2018,8.414,0.609,0,45.8,8.002
+Nigeria,Delta,2018,8.849,0.657,0,36.7,8.784
+Nigeria,Ebonyi,2018,8.208,0.565,0,41.5,5.639
+Nigeria,Edo,2018,8.758,0.623,0,28.4,7.562
+Nigeria,Ekiti,2018,8.512,0.61,0,33.7,8.433
+Nigeria,Enugu,2018,8.671,0.635,0,23.5,7.482
+Nigeria,Gombe,2018,8.142,0.405,0,54.9,2.654
+Nigeria,Imo,2018,8.995,0.643,0,10.6,9.365
+Nigeria,Jigawa,2018,7.911,0.407,0,42.6,1.953
+Nigeria,Kaduna,2018,8.539,0.507,0,42,4.817
+Nigeria,Kano,2018,8.297,0.478,0,31.5,3.425
+Nigeria,Katsina,2018,8.171,0.448,0,36.8,2.374
+Nigeria,Kebbi,2018,7.999,0.332,0,68,0.951
+Nigeria,Kogi,2018,8.449,0.553,0,43,6.109
+Nigeria,Kwara,2018,8.566,0.567,0,42.7,5.328
+Nigeria,Lagos,2018,9.082,0.676,0,2.09,10.99
+Nigeria,Nasarawa,2018,8.657,0.571,0,42.9,5.709
+Nigeria,Niger,2018,8.424,0.481,0,62.6,2.905
+Nigeria,Ogun,2018,8.882,0.666,0,23.4,8.363
+Nigeria,Ondo,2018,8.559,0.606,0,43.6,7.872
+Nigeria,Osun,2018,8.489,0.61,0,31.1,7.952
+Nigeria,Oyo,2018,8.7,0.627,0,14.8,7.952
+Nigeria,Plateau,2018,8.343,0.56,0,52.8,6.079
+Nigeria,Rivers,2018,8.918,0.643,0,14.9,10.33
+Nigeria,Sokoto,2018,7.922,0.334,0,53.6,0.771
+Nigeria,Taraba,2018,8.052,0.498,0,49.5,4.327
+Nigeria,Yobe,2018,7.772,0.361,0,58.4,1.202
+Nigeria,Zamfora,2018,8.007,0.413,0,47.1,1.693
+Sierra Leone,Bo,2018,7.251,0.485,55.9,51.3,3.351
+Sierra Leone,Bombali,2018,7.251,0.465,59.6,61.3,2.633
+Sierra Leone,Bonthe,2018,7.027,0.435,69.7,73.6,2.302
+Sierra Leone,Kailahun,2018,6.985,0.435,76.7,72.8,2.149
+Sierra Leone,Kambia,2018,7.131,0.436,57.4,68.4,1.425
+Sierra Leone,Kenema,2018,7.254,0.451,66.6,58.7,2.811
+Sierra Leone,Koinadugu,2018,7.023,0.41,74.5,72.7,1.221
+Sierra Leone,Kono,2018,7.098,0.443,61.2,51.6,2.092
+Sierra Leone,Moyamba,2018,6.936,0.418,77.9,77.1,2.041
+Sierra Leone,Port Loko,2018,7.172,0.434,52.9,59.7,2.429
+Sierra Leone,Pujehun,2018,6.957,0.404,76.3,69.5,1.863
+Sierra Leone,Tonkolili,2018,6.918,0.42,63.6,66.2,1.577
+Sierra Leone,Western Rural,2018,7.616,0.504,8.3,18.5,5.552
+Sierra Leone,Western Urban,2018,8.201,0.591,1.2,3.74,8.076
+Uganda,Central 1 (Central South),2018,8.08,0.579,15.6,7.48,7.005
+Uganda,Central 2 (Central North),2018,7.761,0.534,48.6,27.3,5.587
+Uganda,East Central (Busoga),2018,7.611,0.523,42,21.9,4.683
+Uganda,"Eastern (Bukedi, Bugishu, Teso)",2018,7.448,0.521,54.9,29.7,4.388
+Uganda,Kampala,2018,8.573,0.632,0.68,0.78,8.985
+Uganda,"North (Karamoja, Lango, Acholi)",2018,7.29,0.47,53.6,35.8,3.074
+Uganda,"Southwest (Ankole, Kigezi)",2018,7.535,0.513,41.1,18.7,4.331
+Uganda,West Nile,2018,7.306,0.48,63.6,36.4,3.427
+Uganda,"Western (Bunyoro, Tooro)",2018,7.52,0.493,34.7,27.2,4.093
+Uganda,Central,2018,8.138,0.581666667,21.62666667,11.85333333,7.192333333
+Uganda,Northern,2018,7.298,0.475,58.6,36.1,3.2505
+Uganda,Eastern,2018,7.5295,0.522,48.45,25.8,4.5355
+Uganda,Western,2018,7.5275,0.503,37.9,22.95,4.212
+Nigeria,Abia,2019,9.044,0.648,0,14.1,9.582
+Nigeria,Abuja FCT,2019,9.063,0.649,0,37.5,8.499
+Nigeria,Adamawa,2019,8.263,0.487,0,76.7,4.718
+Nigeria,Akwa Ibom,2019,8.759,0.611,0,9.25,8.436
+Nigeria,Anambra,2019,9.04,0.666,0,17.9,9.124
+Nigeria,Bauchi,2019,8.023,0.427,0,55.4,2.27
+Nigeria,Bayelsa,2019,8.451,0.654,0,49.2,8.686
+Nigeria,Benue,2019,8.41,0.607,0,62.6,6.218
+Nigeria,Borno,2019,8.381,0.515,0,56.9,4.104
+Nigeria,Cross River,2019,8.423,0.617,0,46.1,8.322
+Nigeria,Delta,2019,8.858,0.665,0,39.1,9.134
+Nigeria,Ebonyi,2019,8.216,0.572,0,41.1,5.864
+Nigeria,Edo,2019,8.767,0.63,0,28.7,7.863
+Nigeria,Ekiti,2019,8.52,0.617,0,36.5,8.77
+Nigeria,Enugu,2019,8.679,0.643,0,23,7.78
+Nigeria,Gombe,2019,8.15,0.41,0,54.6,2.76
+Nigeria,Imo,2019,9.004,0.651,0,10.7,9.738
+Nigeria,Jigawa,2019,7.919,0.412,0,42.3,2.031
+Nigeria,Kaduna,2019,8.548,0.513,0,42.7,5.01
+Nigeria,Kano,2019,8.306,0.484,0,32.9,3.562
+Nigeria,Katsina,2019,8.179,0.453,0,35.3,2.468
+Nigeria,Kebbi,2019,8.007,0.337,0,69.8,0.989
+Nigeria,Kogi,2019,8.457,0.56,0,44.5,6.353
+Nigeria,Kwara,2019,8.575,0.574,0,47.1,5.541
+Nigeria,Lagos,2019,9.091,0.685,0,1.93,11.43
+Nigeria,Nasarawa,2019,8.666,0.579,0,41.3,5.937
+Nigeria,Niger,2019,8.433,0.487,0,64.3,3.02
+Nigeria,Ogun,2019,8.89,0.674,0,23.6,8.697
+Nigeria,Ondo,2019,8.568,0.613,0,44,8.186
+Nigeria,Osun,2019,8.497,0.618,0,32.7,8.27
+Nigeria,Oyo,2019,8.709,0.635,0,11.8,8.27
+Nigeria,Plateau,2019,8.352,0.567,0,54.3,6.322
+Nigeria,Rivers,2019,8.927,0.651,0,12.6,10.74
+Nigeria,Sokoto,2019,7.93,0.338,0,58.7,0.802
+Nigeria,Taraba,2019,8.06,0.504,0,49.1,4.499
+Nigeria,Yobe,2019,7.78,0.366,0,59,1.25
+Nigeria,Zamfora,2019,8.015,0.418,0,49.1,1.76
+Sierra Leone,Bo,2019,7.334,0.467,58.8,53.4,3.399
+Sierra Leone,Bombali,2019,7.323,0.48,58.6,61,2.748
+Sierra Leone,Bonthe,2019,7.148,0.454,73,73.6,2.435
+Sierra Leone,Kailahun,2019,7.08,0.457,78.5,74,2.24
+Sierra Leone,Kambia,2019,7.333,0.441,56.6,66.6,1.719
+Sierra Leone,Kenema,2019,7.322,0.452,70,60.7,2.865
+Sierra Leone,Koinadugu,2019,7.172,0.435,74.2,72.7,1.511
+Sierra Leone,Kono,2019,7.211,0.461,63.8,53.2,2.318
+Sierra Leone,Moyamba,2019,7.043,0.433,78.3,77.4,2.592
+Sierra Leone,Port Loko,2019,7.259,0.431,54.8,59.5,2.435
+Sierra Leone,Pujehun,2019,7.058,0.423,80.7,73.8,1.862
+Sierra Leone,Tonkolili,2019,7.092,0.445,65.4,68.6,1.993
+Sierra Leone,Western Rural,2019,7.768,0.524,8.4,18.4,6.134
+Sierra Leone,Western Urban,2019,8.303,0.612,0.82,2.83,8.452
+Uganda,Central 1 (Central South),2019,8.11,0.582,10.4,0.01,7.137
+Uganda,Central 2 (Central North),2019,7.79,0.537,46.7,22.2,5.692
+Uganda,East Central (Busoga),2019,7.64,0.525,38,16,4.771
+Uganda,"Eastern (Bukedi, Bugishu, Teso)",2019,7.476,0.524,51,23.9,4.47
+Uganda,Kampala,2019,8.606,0.634,0.01,0.01,9.154
+Uganda,"North (Karamoja, Lango, Acholi)",2019,7.318,0.472,52.3,30.6,3.132
+Uganda,"Southwest (Ankole, Kigezi)",2019,7.564,0.515,34.8,11.6,4.412
+Uganda,West Nile,2019,7.334,0.482,66.4,32.2,3.491
+Uganda,"Western (Bunyoro, Tooro)",2019,7.549,0.495,28.2,21,4.17
+Uganda,Central,2019,8.168666667,0.584333333,19.03666667,7.406666667,7.327666667
+Uganda,Northern,2019,7.326,0.477,59.35,31.4,3.3115
+Uganda,Eastern,2019,7.558,0.5245,44.5,19.95,4.6205
+Uganda,Western,2019,7.5565,0.505,31.5,16.3,4.291
+Nigeria,Abia,2020,8.993,0.645,0.01,12.7,9.582
+Nigeria,Abuja FCT,2020,9.012,0.646,0.01,39.9,8.499
+Nigeria,Adamawa,2020,8.217,0.485,0.01,83,4.718
+Nigeria,Akwa Ibom,2020,8.71,0.608,0.01,7.07,8.436
+Nigeria,Anambra,2020,8.989,0.663,0.01,17.6,9.124
+Nigeria,Bauchi,2020,7.978,0.425,0.01,55.3,2.27
+Nigeria,Bayelsa,2020,8.404,0.651,0.01,51.7,8.686
+Nigeria,Benue,2020,8.363,0.604,0.01,62.2,6.218
+Nigeria,Borno,2020,8.334,0.513,0.01,58.5,4.104
+Nigeria,Cross River,2020,8.376,0.614,0.01,46.3,8.322
+Nigeria,Delta,2020,8.808,0.663,0.01,41.5,9.134
+Nigeria,Ebonyi,2020,8.17,0.569,0.01,40.8,5.864
+Nigeria,Edo,2020,8.717,0.628,0.01,29.1,7.863
+Nigeria,Ekiti,2020,8.472,0.615,0.01,39.3,8.77
+Nigeria,Enugu,2020,8.631,0.64,0.01,22.6,7.78
+Nigeria,Gombe,2020,8.105,0.408,0.01,54.3,2.76
+Nigeria,Imo,2020,8.954,0.648,0.01,10.8,9.738
+Nigeria,Jigawa,2020,7.874,0.41,0.01,42.1,2.031
+Nigeria,Kaduna,2020,8.5,0.511,0.01,43.3,5.01
+Nigeria,Kano,2020,8.259,0.482,0.01,34.2,3.562
+Nigeria,Katsina,2020,8.134,0.451,0.01,33.7,2.468
+Nigeria,Kebbi,2020,7.962,0.335,0.01,71.6,0.989
+Nigeria,Kogi,2020,8.41,0.557,0.01,45.9,6.353
+Nigeria,Kwara,2020,8.527,0.571,0.01,51.5,5.541
+Nigeria,Lagos,2020,9.04,0.682,0.01,1.78,11.43
+Nigeria,Nasarawa,2020,8.618,0.576,0.01,39.6,5.937
+Nigeria,Niger,2020,8.385,0.485,0.01,65.9,3.02
+Nigeria,Ogun,2020,8.841,0.671,0.01,23.8,8.697
+Nigeria,Ondo,2020,8.52,0.611,0.01,44.5,8.186
+Nigeria,Osun,2020,8.449,0.615,0.01,34.3,8.27
+Nigeria,Oyo,2020,8.66,0.632,0.01,8.8,8.27
+Nigeria,Plateau,2020,8.305,0.565,0.01,55.9,6.322
+Nigeria,Rivers,2020,8.877,0.649,0.01,10.4,10.74
+Nigeria,Sokoto,2020,7.885,0.336,0.01,63.9,0.802
+Nigeria,Taraba,2020,8.015,0.502,0.01,48.8,4.499
+Nigeria,Yobe,2020,7.736,0.364,0.01,59.6,1.25
+Nigeria,Zamfora,2020,7.97,0.416,0.01,51,1.76
+Sierra Leone,Bo,2020,7.286,0.462,61.8,55.6,3.399
+Sierra Leone,Bombali,2020,7.275,0.475,57.7,60.6,2.748
+Sierra Leone,Bonthe,2020,7.101,0.449,76.2,73.6,2.435
+Sierra Leone,Kailahun,2020,7.033,0.453,80.2,75.1,2.24
+Sierra Leone,Kambia,2020,7.284,0.437,55.8,64.9,1.719
+Sierra Leone,Kenema,2020,7.274,0.448,73.5,62.8,2.865
+Sierra Leone,Koinadugu,2020,7.125,0.431,74,72.8,1.511
+Sierra Leone,Kono,2020,7.164,0.456,66.5,54.7,2.318
+Sierra Leone,Moyamba,2020,6.997,0.428,78.7,77.6,2.592
+Sierra Leone,Port Loko,2020,7.211,0.427,56.8,59.2,2.435
+Sierra Leone,Pujehun,2020,7.011,0.418,85,78.2,1.862
+Sierra Leone,Tonkolili,2020,7.046,0.44,67.3,71,1.993
+Sierra Leone,Western Rural,2020,7.717,0.519,8.5,18.2,6.134
+Sierra Leone,Western Urban,2020,8.248,0.607,0.55,1.93,8.452
+Uganda,Central 1 (Central South),2020,8.117,0.581,,,7.137
+Uganda,Central 2 (Central North),2020,7.796,0.536,,,5.692
+Uganda,East Central (Busoga),2020,7.646,0.525,,,4.771
+Uganda,"Eastern (Bukedi, Bugishu, Teso)",2020,7.482,0.523,,,4.47
+Uganda,Kampala,2020,8.613,0.634,,,9.154
+Uganda,"North (Karamoja, Lango, Acholi)",2020,7.324,0.472,,,3.132
+Uganda,"Southwest (Ankole, Kigezi)",2020,7.57,0.515,,,4.412
+Uganda,West Nile,2020,7.339,0.482,,,3.491
+Uganda,"Western (Bunyoro, Tooro)",2020,7.555,0.495,,,4.17
+Uganda,Central,2020,8.175333333,0.583666667,,,7.327666667
+Uganda,Northern,2020,7.3315,0.477,,,3.3115
+Uganda,Eastern,2020,7.564,0.524,,,4.6205
+Uganda,Western,2020,7.5625,0.505,,,4.291
+Nigeria,Abia,2021,9.004,0.644,0.01,11.3,9.582
+Nigeria,Abuja FCT,2021,9.023,0.646,0.01,42.3,8.499
+Nigeria,Adamawa,2021,8.227,0.485,0.01,89.2,4.718
+Nigeria,Akwa Ibom,2021,8.721,0.608,0.01,4.89,8.436
+Nigeria,Anambra,2021,9,0.662,0.01,17.3,9.124
+Nigeria,Bauchi,2021,7.988,0.425,0.01,55.2,2.27
+Nigeria,Bayelsa,2021,8.414,0.651,0.01,54.1,8.686
+Nigeria,Benue,2021,8.373,0.604,0.01,61.8,6.218
+Nigeria,Borno,2021,8.344,0.512,0.01,60,4.104
+Nigeria,Cross River,2021,8.386,0.613,0.01,46.6,8.322
+Nigeria,Delta,2021,8.82,0.662,0.01,44,9.134
+Nigeria,Ebonyi,2021,8.18,0.569,0.01,40.5,5.864
+Nigeria,Edo,2021,8.728,0.627,0.01,29.4,7.863
+Nigeria,Ekiti,2021,8.483,0.614,0.01,42.1,8.77
+Nigeria,Enugu,2021,8.642,0.64,0.01,22.1,7.78
+Nigeria,Gombe,2021,8.115,0.408,0.01,54,2.76
+Nigeria,Imo,2021,8.965,0.647,0.01,10.9,9.738
+Nigeria,Jigawa,2021,7.884,0.409,0.01,41.8,2.031
+Nigeria,Kaduna,2021,8.511,0.511,0.01,44,5.01
+Nigeria,Kano,2021,8.269,0.481,0.01,35.6,3.562
+Nigeria,Katsina,2021,8.144,0.451,0.01,32.2,2.468
+Nigeria,Kebbi,2021,7.972,0.335,0.01,73.4,0.989
+Nigeria,Kogi,2021,8.421,0.557,0.01,47.3,6.353
+Nigeria,Kwara,2021,8.537,0.571,0.01,55.8,5.541
+Nigeria,Lagos,2021,9.051,0.681,0.01,1.62,11.43
+Nigeria,Nasarawa,2021,8.628,0.575,0.01,38,5.937
+Nigeria,Niger,2021,8.396,0.484,0.01,67.5,3.02
+Nigeria,Ogun,2021,8.852,0.671,0.01,24,8.697
+Nigeria,Ondo,2021,8.53,0.61,0.01,44.9,8.186
+Nigeria,Osun,2021,8.46,0.614,0.01,35.8,8.27
+Nigeria,Oyo,2021,8.671,0.632,0.01,5.8,8.27
+Nigeria,Plateau,2021,8.315,0.564,0.01,57.4,6.322
+Nigeria,Rivers,2021,8.888,0.648,0.01,8.09,10.74
+Nigeria,Sokoto,2021,7.895,0.336,0.01,69.1,0.802
+Nigeria,Taraba,2021,8.025,0.501,0.01,48.4,4.499
+Nigeria,Yobe,2021,7.746,0.363,0.01,60.2,1.25
+Nigeria,Zamfora,2021,7.98,0.416,0.01,53,1.76
+Sierra Leone,Bo,2021,7.297,0.464,64.8,57.8,3.399
+Sierra Leone,Bombali,2021,7.285,0.477,56.8,60.2,2.748
+Sierra Leone,Bonthe,2021,7.111,0.451,79.4,73.6,2.435
+Sierra Leone,Kailahun,2021,7.043,0.454,82,76.2,2.24
+Sierra Leone,Kambia,2021,7.295,0.438,55.1,63.1,1.719
+Sierra Leone,Kenema,2021,7.284,0.45,76.9,64.8,2.865
+Sierra Leone,Koinadugu,2021,7.135,0.432,73.7,72.8,1.511
+Sierra Leone,Kono,2021,7.174,0.458,69.1,56.3,2.318
+Sierra Leone,Moyamba,2021,7.007,0.43,79.1,77.9,2.592
+Sierra Leone,Port Loko,2021,7.221,0.429,58.7,59,2.435
+Sierra Leone,Pujehun,2021,7.022,0.42,89.4,82.6,1.862
+Sierra Leone,Tonkolili,2021,7.056,0.442,69.1,73.4,1.993
+Sierra Leone,Western Rural,2021,7.728,0.52,8.6,18,6.134
+Sierra Leone,Western Urban,2021,8.26,0.609,0.28,1.02,8.452
+Uganda,Central 1 (Central South),2021,8.138,0.582,,,7.137
+Uganda,Central 2 (Central North),2021,7.817,0.537,,,5.692
+Uganda,East Central (Busoga),2021,7.666,0.526,,,4.771
+Uganda,"Eastern (Bukedi, Bugishu, Teso)",2021,7.502,0.524,,,4.47
+Uganda,Kampala,2021,8.636,0.635,,,9.154
+Uganda,"North (Karamoja, Lango, Acholi)",2021,7.343,0.473,,,3.132
+Uganda,"Southwest (Ankole, Kigezi)",2021,7.59,0.515,,,4.412
+Uganda,West Nile,2021,7.359,0.483,,,3.491
+Uganda,"Western (Bunyoro, Tooro)",2021,7.575,0.496,,,4.17
+Uganda,Central,2021,8.197,0.584666667,#DIV/0!,#DIV/0!,7.327666667
+Uganda,Northern,2021,7.351,0.478,#DIV/0!,#DIV/0!,3.3115
+Uganda,Eastern,2021,7.584,0.525,#DIV/0!,#DIV/0!,4.6205
+Uganda,Western,2021,7.5825,0.5055,#DIV/0!,#DIV/0!,4.291
